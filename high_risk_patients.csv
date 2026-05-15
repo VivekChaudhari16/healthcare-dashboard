@@ -1,0 +1,2039 @@
+patient_id,age,gender_clean,chronic_condition_clean,patient_total_admissions,patient_total_readmissions,patient_total_cost,risk_score,risk_segment
+4053,62.0,Female,Hypertension,6,5,362943.71,8,High Risk
+9323,71.0,Male,Diabetes,6,3,339833.25375000003,8,High Risk
+11640,73.0,Female,Hypertension,9,8,330582.3275,8,High Risk
+7494,65.0,Male,Hypertension,5,3,314666.95625000005,8,High Risk
+2541,67.0,Male,Asthma,11,4,311594.72625,8,High Risk
+8181,64.0,Female,Hypertension,8,5,311080.74375,8,High Risk
+5046,68.0,Male,Hypertension,6,3,293323.0825,8,High Risk
+44,71.0,Male,Copd,4,4,291343.96749999997,8,High Risk
+9933,67.0,Female,Ckd,7,2,287898.5225,8,High Risk
+1096,61.0,Male,Heart Failure,9,4,285717.8775,8,High Risk
+3868,75.0,Male,Diabetes,5,3,276516.8825,8,High Risk
+638,63.0,Female,Hypertension,7,4,266227.76625,8,High Risk
+11981,76.0,Male,Heart Failure,8,4,265475.24875,8,High Risk
+10865,73.0,Male,Hypertension,5,4,264140.53875000007,8,High Risk
+11999,63.0,Male,Diabetes,6,3,259483.5675,8,High Risk
+6486,71.0,Female,Hypertension,9,4,252120.54625,8,High Risk
+6166,64.0,Female,Hypertension,4,2,250319.87875,8,High Risk
+3307,70.0,Female,Asthma,7,3,249485.03999999998,8,High Risk
+1721,61.0,Female,Hypertension,5,2,248402.07250000004,8,High Risk
+531,66.0,Female,Diabetes,3,1,244118.03250000003,8,High Risk
+7888,62.0,Female,Hypertension,5,3,240957.36625000002,8,High Risk
+3175,85.0,Female,Heart Failure,4,3,240724.95750000002,8,High Risk
+4192,72.0,Male,Copd,7,5,240478.45625,8,High Risk
+1842,72.0,Female,Copd,6,2,239909.8025,8,High Risk
+3415,69.0,Male,Diabetes,5,4,237863.77625,8,High Risk
+3718,76.0,Male,Cancer,4,3,236030.37625000003,8,High Risk
+2324,62.0,Male,Copd,6,5,229292.2575,8,High Risk
+9164,78.0,Female,Copd,6,5,228732.64625000002,8,High Risk
+9393,78.0,Female,Copd,5,5,228609.67750000002,8,High Risk
+9926,69.0,Male,Diabetes,8,7,227052.6375,8,High Risk
+1253,61.0,Female,Diabetes,5,3,226701.73750000002,8,High Risk
+11738,71.0,Male,Hypertension,6,4,226114.64,8,High Risk
+11749,63.0,Male,Heart Failure,5,4,226107.38125,8,High Risk
+7200,60.0,Female,Asthma,5,3,224293.7,8,High Risk
+10302,74.0,Female,Copd,4,2,224023.77375,8,High Risk
+6446,96.0,Male,Hypertension,6,6,221295.99250000002,8,High Risk
+1465,81.0,Female,Copd,6,5,218661.77625,8,High Risk
+11519,69.0,Male,Asthma,6,4,215846.6175,8,High Risk
+4993,80.0,Female,Ckd,6,5,215677.53125000003,8,High Risk
+8908,64.0,Male,Hypertension,4,3,215168.77125000002,8,High Risk
+8397,66.0,Male,Asthma,5,4,214689.47125,8,High Risk
+11952,75.0,Female,Diabetes,6,1,213509.12375,8,High Risk
+1957,81.0,Female,Diabetes,5,2,212419.86375,8,High Risk
+8828,73.0,Male,Hypertension,4,1,211049.695,8,High Risk
+4510,71.0,Male,Heart Failure,7,5,211041.98750000002,8,High Risk
+5151,68.0,Female,Hypertension,6,5,210652.2575,8,High Risk
+7964,73.0,Male,Hypertension,6,2,206619.3325,8,High Risk
+8293,63.0,Female,Hypertension,5,0,205398.7,8,High Risk
+1171,67.0,Female,Diabetes,7,3,204546.80375,8,High Risk
+6663,78.0,Female,Hypertension,4,2,202123.87375000003,8,High Risk
+1813,69.0,Female,Diabetes,4,1,200998.80875000003,8,High Risk
+8503,67.0,Female,Asthma,5,3,200585.73750000002,8,High Risk
+9213,72.0,Female,Copd,6,5,198338.31875,8,High Risk
+203,61.0,Female,Copd,3,2,197544.29125000004,8,High Risk
+11914,73.0,Male,Copd,4,1,197528.4175,8,High Risk
+3822,70.0,Male,Ckd,6,4,196809.57375,8,High Risk
+4141,70.0,Male,Ckd,5,3,195346.405,8,High Risk
+3483,64.0,Male,Hypertension,7,2,193118.04875000002,8,High Risk
+11523,73.0,Female,Diabetes,5,4,193059.96750000003,8,High Risk
+3325,70.0,Male,Heart Failure,5,0,192758.9075,8,High Risk
+339,88.0,Female,Diabetes,5,5,191998.3275,8,High Risk
+492,69.0,Male,Diabetes,5,2,189566.26750000002,8,High Risk
+7031,75.0,Female,Hypertension,7,4,188301.81375,8,High Risk
+8740,68.0,Female,Hypertension,7,4,187794.19375,8,High Risk
+5355,79.0,Male,Ckd,3,3,187721.55,8,High Risk
+9991,61.0,Male,Diabetes,6,2,185832.5375,8,High Risk
+6680,60.0,Female,Diabetes,4,4,185064.76875000002,8,High Risk
+1849,71.0,Male,Hypertension,6,4,184061.48375,8,High Risk
+11764,66.0,Female,Diabetes,5,3,183880.3575,8,High Risk
+10687,96.0,Male,Cancer,8,6,183304.5775,8,High Risk
+649,82.0,Female,Asthma,5,5,182472.64,8,High Risk
+7304,67.0,Male,Copd,6,1,182154.33750000002,8,High Risk
+743,68.0,Female,Heart Failure,6,3,181946.12875,8,High Risk
+9382,68.0,Female,Heart Failure,5,4,181756.8825,8,High Risk
+6857,79.0,Female,Hypertension,6,4,181410.4375,8,High Risk
+2238,65.0,Male,Ckd,4,2,181173.5575,8,High Risk
+6712,61.0,Female,Ckd,6,3,178917.30750000002,8,High Risk
+9402,67.0,Male,Hypertension,5,4,178328.2425,8,High Risk
+4308,87.0,Female,Asthma,3,2,178045.03875,8,High Risk
+5537,66.0,Male,Copd,8,6,175608.6575,8,High Risk
+7828,67.0,Male,Hypertension,5,3,173516.61875,8,High Risk
+6371,71.0,Female,Hypertension,4,4,170612.48875000002,8,High Risk
+2163,64.0,Female,Copd,7,5,169286.28375,8,High Risk
+3205,96.0,Female,Diabetes,5,5,166535.14750000002,8,High Risk
+10069,69.0,Female,Hypertension,5,3,166203.13,8,High Risk
+11868,84.0,Male,Hypertension,4,3,166092.15250000003,8,High Risk
+2212,88.0,Male,Copd,5,3,164359.15625000003,8,High Risk
+4866,71.0,Male,Heart Failure,6,5,163295.25,8,High Risk
+3361,63.0,Male,Diabetes,5,4,163290.225,8,High Risk
+3746,83.0,other,Asthma,4,3,163041.37,8,High Risk
+2319,65.0,Female,Heart Failure,5,2,162770.9975,8,High Risk
+8873,67.0,Female,Diabetes,6,6,161879.86875000002,8,High Risk
+9030,64.0,Male,Copd,4,2,161277.22375,8,High Risk
+7918,63.0,Male,Hypertension,7,6,161260.31375,8,High Risk
+9462,62.0,Male,Diabetes,5,2,161064.37375,8,High Risk
+5199,76.0,Female,Ckd,4,1,160402.2575,8,High Risk
+10632,74.0,Male,Ckd,4,2,159459.55375000002,8,High Risk
+11606,69.0,Female,Asthma,5,4,159265.74,8,High Risk
+6458,69.0,Female,Diabetes,4,4,159183.73375,8,High Risk
+11936,78.0,Male,Ckd,5,5,158954.07875000002,8,High Risk
+11182,66.0,Female,Diabetes,5,3,158792.00875,8,High Risk
+11639,67.0,Female,Diabetes,5,5,158314.715,8,High Risk
+11908,84.0,Female,Hypertension,4,4,157202.1525,8,High Risk
+11212,77.0,Male,Copd,3,1,156983.41625,8,High Risk
+10815,87.0,Male,Ckd,4,2,155994.42875,8,High Risk
+957,61.0,Female,Hypertension,6,3,155979.34375,8,High Risk
+3958,64.0,Female,Asthma,6,3,152353.75999999998,8,High Risk
+2060,75.0,Female,Cancer,5,3,152326.46875,8,High Risk
+9195,62.0,Female,Hypertension,4,3,152246.3825,8,High Risk
+10844,70.0,Male,Heart Failure,3,2,150586.33250000002,8,High Risk
+8230,64.0,Male,Copd,8,4,150459.73,8,High Risk
+5579,84.0,Female,Heart Failure,3,2,149903.98875000002,8,High Risk
+2269,67.0,Female,Hypertension,5,5,149279.04375,8,High Risk
+5108,76.0,Male,Copd,3,2,149022.83250000002,8,High Risk
+6258,68.0,Female,Hypertension,5,4,148670.52875,8,High Risk
+1874,73.0,Female,Diabetes,5,3,147319.36875,8,High Risk
+10889,62.0,Female,Hypertension,3,1,147299.66625,8,High Risk
+6959,94.0,Male,Hypertension,3,3,146418.86125000002,8,High Risk
+926,66.0,Female,Ckd,4,3,145939.15,8,High Risk
+7300,67.0,Male,Hypertension,4,2,145069.06,8,High Risk
+720,68.0,Female,Hypertension,4,3,144045.95375,8,High Risk
+10733,65.0,Male,Asthma,3,2,143776.36875000002,8,High Risk
+4520,60.0,Female,Diabetes,4,2,143288.65,8,High Risk
+11765,69.0,Male,Hypertension,3,1,141884.05000000002,8,High Risk
+11294,61.0,Male,Cancer,6,2,139245.84375,8,High Risk
+8061,72.0,Female,Asthma,4,3,139078.97375,8,High Risk
+195,62.0,Female,Copd,3,2,138544.68375,8,High Risk
+2381,70.0,Male,Diabetes,7,4,137876.77000000002,8,High Risk
+3548,65.0,Female,Asthma,3,3,137136.34375000003,8,High Risk
+11021,77.0,Male,Asthma,3,1,136244.74,8,High Risk
+3806,61.0,Female,Heart Failure,5,2,135649.61375000002,8,High Risk
+7256,61.0,Male,Hypertension,5,3,134915.8,8,High Risk
+4323,65.0,Male,Diabetes,5,4,134187.91874999998,8,High Risk
+11866,80.0,Female,Diabetes,5,3,133847.88999999998,8,High Risk
+4734,60.0,Female,Hypertension,4,3,131232.90875,8,High Risk
+10017,62.0,Female,Hypertension,5,2,130906.63,8,High Risk
+5788,60.0,Female,Ckd,4,3,130785.67875,8,High Risk
+9996,70.0,Male,Copd,4,3,129830.33875,8,High Risk
+7227,69.0,Male,Hypertension,4,2,129645.90875,8,High Risk
+474,62.0,Female,Heart Failure,3,2,129106.8725,8,High Risk
+3485,60.0,Female,Diabetes,3,1,128719.81875,8,High Risk
+11997,70.0,Male,Hypertension,4,1,128260.48,8,High Risk
+11972,68.0,Female,Copd,4,3,128015.79875,8,High Risk
+861,83.0,Male,Hypertension,5,4,127426.18875,8,High Risk
+6497,72.0,Female,Heart Failure,3,2,127065.86750000001,8,High Risk
+576,60.0,Female,Cancer,3,1,126971.28,8,High Risk
+1651,67.0,Female,Diabetes,5,3,125841.33375,8,High Risk
+9130,87.0,Female,Diabetes,3,3,125278.8425,8,High Risk
+11716,60.0,Male,Hypertension,6,2,125253.99875,8,High Risk
+5534,68.0,Female,Diabetes,4,2,123930.66875,8,High Risk
+982,70.0,Female,Hypertension,4,4,122277.32875,8,High Risk
+11988,76.0,Female,Ckd,4,2,122146.01874999999,8,High Risk
+11816,95.0,Female,Copd,4,2,121786.22875,8,High Risk
+1730,69.0,Female,Asthma,3,3,121741.90375000003,8,High Risk
+1423,78.0,Male,Copd,5,1,119019.62375000001,8,High Risk
+7515,61.0,Male,Hypertension,3,2,118182.72,8,High Risk
+4051,63.0,Female,Cancer,3,2,118108.48875,8,High Risk
+1144,60.0,Male,Heart Failure,4,1,117921.82375000001,8,High Risk
+11865,70.0,Female,Diabetes,7,4,116391.84000000001,8,High Risk
+5259,62.0,Female,Hypertension,6,2,116362.78499999999,8,High Risk
+7557,65.0,Female,Hypertension,4,3,115751.53,8,High Risk
+11512,67.0,Female,Copd,3,1,115016.58,8,High Risk
+1300,68.0,Female,Hypertension,4,3,114544.88,8,High Risk
+1257,66.0,Male,Hypertension,5,3,114243.675,8,High Risk
+11786,71.0,Male,Asthma,4,3,112104.13750000001,8,High Risk
+8232,67.0,Male,Asthma,3,3,111233.27750000001,8,High Risk
+5680,64.0,Male,Hypertension,5,3,111055.28000000001,8,High Risk
+2901,68.0,Female,Hypertension,4,3,110689.35250000001,8,High Risk
+10583,70.0,Male,Diabetes,4,2,108533.29375000001,8,High Risk
+5339,61.0,Female,Copd,3,3,107443.07750000001,8,High Risk
+1216,60.0,Male,Heart Failure,5,2,106834.03,8,High Risk
+2563,60.0,Female,Hypertension,4,3,106138.225,8,High Risk
+7186,60.0,Male,Asthma,3,2,104848.39875000002,8,High Risk
+11618,70.0,Female,Heart Failure,4,2,104303.83375,8,High Risk
+5747,67.0,Female,Heart Failure,4,2,103743.31875,8,High Risk
+3419,66.0,Female,Hypertension,3,2,103064.24875,8,High Risk
+6774,80.0,Male,Heart Failure,3,2,102785.185,8,High Risk
+3851,66.0,Male,Diabetes,4,0,101948.6575,8,High Risk
+7421,85.0,Female,Asthma,4,3,101733.23875000002,8,High Risk
+8722,76.0,Female,Asthma,3,1,101627.955,8,High Risk
+5530,62.0,Male,Hypertension,3,3,100700.15250000001,8,High Risk
+5031,93.0,Female,Asthma,4,3,100559.485,8,High Risk
+10980,77.0,Female,Copd,5,2,100159.43875,8,High Risk
+587,68.0,Male,Hypertension,3,1,99397.1,8,High Risk
+6992,67.0,Male,Hypertension,3,1,97288.10500000001,8,High Risk
+2462,63.0,other,Diabetes,3,2,96735.12875,8,High Risk
+2115,61.0,Male,Diabetes,5,3,94662.19499999999,8,High Risk
+11979,75.0,Female,Hypertension,4,4,94235.1,8,High Risk
+1192,67.0,Female,Asthma,3,1,93751.55875,8,High Risk
+6837,73.0,Male,Diabetes,3,2,91405.04000000001,8,High Risk
+6687,83.0,Female,Heart Failure,4,2,90850.71875000001,8,High Risk
+4805,75.0,Male,Hypertension,3,2,90647.13,8,High Risk
+567,64.0,Female,Heart Failure,3,1,90222.15,8,High Risk
+11149,89.0,Male,Heart Failure,4,2,89564.385,8,High Risk
+8780,60.0,Female,Heart Failure,6,4,89483.19,8,High Risk
+10988,60.0,Male,Hypertension,4,3,89275.69875,8,High Risk
+6243,82.0,Male,Hypertension,5,4,88399.12500000001,8,High Risk
+11832,74.0,Female,Cancer,5,4,87737.98375,8,High Risk
+1023,80.0,Female,Copd,3,2,87723.18000000001,8,High Risk
+10342,64.0,Male,Asthma,4,3,87610.54375000001,8,High Risk
+210,62.0,Male,Copd,5,2,85403.185,8,High Risk
+4161,64.0,Male,Heart Failure,3,2,84835.09875,8,High Risk
+11728,81.0,Male,Copd,3,3,84674.95874999999,8,High Risk
+5864,78.0,Male,Ckd,3,2,83937.51,8,High Risk
+5727,66.0,Male,Asthma,3,3,83007.73250000001,8,High Risk
+3621,66.0,Female,Asthma,3,2,82481.53375,8,High Risk
+11661,73.0,Male,Ckd,4,3,82078.91875,8,High Risk
+7452,60.0,Male,Diabetes,5,4,80990.17375,8,High Risk
+4167,77.0,Female,Diabetes,4,4,80728.31999999999,8,High Risk
+2419,60.0,Female,Heart Failure,3,1,80454.86499999999,8,High Risk
+11788,68.0,Male,Asthma,3,3,79987.755,8,High Risk
+566,68.0,Male,Diabetes,6,3,79904.72875000001,8,High Risk
+883,70.0,Female,Diabetes,4,1,79315.51,8,High Risk
+8325,60.0,Male,Ckd,4,2,79092.345,8,High Risk
+7238,70.0,Male,Asthma,4,3,76360.58,8,High Risk
+1612,65.0,Male,Diabetes,4,2,74509.89,8,High Risk
+6482,89.0,other,Diabetes,3,1,73017.54875,8,High Risk
+966,67.0,Female,Asthma,3,2,72384.84,8,High Risk
+3856,62.0,Male,Diabetes,3,2,71514.98,8,High Risk
+8093,65.0,Female,Copd,3,1,70681.29000000001,8,High Risk
+8653,62.0,Female,Ckd,5,3,67908.85,8,High Risk
+786,63.0,Male,Diabetes,5,1,65788.655,8,High Risk
+2838,60.0,Male,Diabetes,3,1,64222.229999999996,8,High Risk
+35,72.0,Female,Ckd,3,2,63388.57375,8,High Risk
+871,68.0,Male,Asthma,3,3,61570.98,8,High Risk
+5651,70.0,Female,Hypertension,5,4,59774.81,8,High Risk
+9728,60.0,Female,Hypertension,3,2,59417.655000000006,8,High Risk
+7883,87.0,Male,Hypertension,4,1,58315.37500000001,8,High Risk
+5991,76.0,Male,Hypertension,4,3,58208.88500000001,8,High Risk
+7577,85.0,Female,Copd,4,2,54450.729999999996,8,High Risk
+9692,64.0,Male,Diabetes,3,0,52961.340000000004,8,High Risk
+615,82.0,Female,Asthma,3,2,52694.05,8,High Risk
+2811,69.0,Male,Asthma,3,2,49627.23375,8,High Risk
+9463,76.0,Female,Cancer,3,2,47793.535,8,High Risk
+186,60.0,Male,Diabetes,3,3,46357.56999999999,8,High Risk
+11853,87.0,Male,Hypertension,3,2,44047.45,8,High Risk
+11619,86.0,Male,Heart Failure,3,0,41437.32,8,High Risk
+2657,86.0,Male,Hypertension,5,4,37695.86,8,High Risk
+6918,72.0,Male,Copd,3,3,37454.765,8,High Risk
+9113,69.0,Male,Hypertension,3,1,33652.2,8,High Risk
+4831,63.0,Female,Asthma,4,3,33026.7,8,High Risk
+8324,65.0,Female,Heart Failure,3,2,32382.375,8,High Risk
+11888,66.0,Male,Hypertension,4,2,31888.520000000004,8,High Risk
+950,61.0,Male,Ckd,3,2,31254.18,8,High Risk
+10400,63.0,Female,Heart Failure,3,2,31065.25,8,High Risk
+11534,75.0,Female,Diabetes,3,2,30470.615,8,High Risk
+7517,63.0,Male,Hypertension,3,0,28660.71,8,High Risk
+10852,78.0,Female,Diabetes,3,2,26499.14,8,High Risk
+10928,60.0,Female,Heart Failure,3,2,22777.559999999998,8,High Risk
+717,74.0,Male,Asthma,3,3,21500.42,8,High Risk
+3118,65.0,Female,Hypertension,3,1,15217.779999999999,8,High Risk
+4093,96.0,Female,Cancer,4,3,10471.92,8,High Risk
+11889,73.0,Female,Hypertension,7,5,405020.99125,7,High Risk
+11502,62.0,Female,Diabetes,6,5,374402.325,7,High Risk
+11678,67.0,Male,Asthma,5,4,355602.45375,7,High Risk
+8423,76.0,Male,Ckd,6,4,342612.01625,7,High Risk
+11706,80.0,Female,Copd,7,6,341107.24250000005,7,High Risk
+1509,61.0,Male,Hypertension,5,3,334998.55875,7,High Risk
+7466,70.0,Male,Ckd,9,7,329423.34625,7,High Risk
+11692,78.0,Female,Diabetes,8,4,325832.405,7,High Risk
+7457,65.0,Female,Ckd,6,5,322754.59375,7,High Risk
+2234,70.0,Male,Hypertension,6,3,322197.79000000004,7,High Risk
+2804,70.0,Male,Cancer,8,5,319968.55125,7,High Risk
+1760,63.0,Male,Asthma,6,3,312553.72000000003,7,High Risk
+4772,70.0,Female,Asthma,6,2,312235.105,7,High Risk
+11309,61.0,Male,Copd,6,4,307945.7525,7,High Risk
+2205,60.0,Female,Hypertension,7,5,306933.08625,7,High Risk
+11989,72.0,Female,Diabetes,9,5,306049.81625000003,7,High Risk
+816,63.0,Male,Ckd,6,4,305630.655,7,High Risk
+1294,69.0,Male,Diabetes,5,2,304475.01,7,High Risk
+9146,65.0,Male,Diabetes,5,4,304090.0175,7,High Risk
+2535,83.0,Male,Hypertension,7,4,297317.25,7,High Risk
+4143,76.0,Male,Diabetes,8,8,296737.68875000003,7,High Risk
+8672,60.0,Male,Heart Failure,5,2,294720.85500000004,7,High Risk
+7923,75.0,Male,Asthma,6,3,294424.59,7,High Risk
+1985,63.0,Female,Copd,7,6,293888.19625000004,7,High Risk
+5265,85.0,unknown,Asthma,5,3,292267.57375,7,High Risk
+11798,63.0,Female,Diabetes,3,1,291684.96875,7,High Risk
+1611,63.0,Female,Heart Failure,6,5,290907.125,7,High Risk
+7161,73.0,Male,Ckd,9,5,286963.88625,7,High Risk
+5416,64.0,Male,Hypertension,10,7,285036.55875,7,High Risk
+1134,85.0,Male,Hypertension,6,2,284024.56125,7,High Risk
+2937,65.0,Male,Cancer,6,5,280525.9375,7,High Risk
+9831,67.0,Male,Diabetes,7,3,279002.40750000003,7,High Risk
+7478,72.0,Male,Diabetes,6,4,277725.22625,7,High Risk
+11949,78.0,Male,Diabetes,8,1,277205.83,7,High Risk
+9988,63.0,Female,Heart Failure,5,2,277168.14125,7,High Risk
+11647,69.0,Female,Hypertension,6,4,274846.28375,7,High Risk
+506,64.0,Female,Ckd,6,2,274000.84,7,High Risk
+6739,78.0,Male,Hypertension,6,5,273841.72125,7,High Risk
+4103,64.0,Male,Copd,5,3,273822.94500000007,7,High Risk
+11635,73.0,Female,Ckd,4,3,273102.48625,7,High Risk
+8957,71.0,Female,Hypertension,7,6,272476.75625000003,7,High Risk
+3120,60.0,Male,Cancer,7,3,267609.57125000004,7,High Risk
+2596,78.0,Female,Ckd,7,3,267220.87125,7,High Risk
+10576,71.0,Male,Asthma,5,3,266668.1875,7,High Risk
+3597,64.0,Female,Heart Failure,6,3,265726.98250000004,7,High Risk
+11842,73.0,Male,Hypertension,6,5,265571.15,7,High Risk
+263,76.0,Male,Hypertension,4,3,263927.27125000005,7,High Risk
+2435,76.0,Female,Heart Failure,4,3,263264.72875,7,High Risk
+984,60.0,Male,Heart Failure,6,4,262683.78375,7,High Risk
+1716,72.0,Female,Diabetes,5,5,262676.66000000003,7,High Risk
+6753,69.0,Female,Copd,4,1,255726.85874999996,7,High Risk
+8800,60.0,Male,Diabetes,5,4,253650.11500000002,7,High Risk
+4219,60.0,Male,Asthma,6,2,252764.71250000002,7,High Risk
+5506,65.0,Male,Hypertension,5,2,252654.91875,7,High Risk
+11075,68.0,Male,Asthma,7,5,252449.75000000003,7,High Risk
+534,61.0,Female,Diabetes,5,4,251996.63125,7,High Risk
+4360,60.0,Male,Ckd,6,3,251836.43500000003,7,High Risk
+3051,68.0,Male,Heart Failure,4,2,249945.91625,7,High Risk
+4698,75.0,Female,Asthma,5,3,248211.41125,7,High Risk
+8556,62.0,Female,Hypertension,9,6,247142.98750000002,7,High Risk
+6734,88.0,Female,Asthma,6,3,246653.7225,7,High Risk
+9987,74.0,Female,Diabetes,7,4,246244.47125000003,7,High Risk
+10840,63.0,Female,Ckd,7,1,246185.99000000002,7,High Risk
+10088,73.0,Male,Cancer,6,4,246163.7975,7,High Risk
+432,77.0,Male,Asthma,4,4,245567.22375,7,High Risk
+11617,66.0,Female,Hypertension,5,4,245165.37875000003,7,High Risk
+9899,66.0,Female,Asthma,5,2,244891.17750000002,7,High Risk
+1751,82.0,Male,Ckd,6,4,244266.8225,7,High Risk
+2765,62.0,Male,Hypertension,5,3,243792.50625,7,High Risk
+10341,66.0,Female,Hypertension,5,3,243725.14625000002,7,High Risk
+11955,60.0,Female,Hypertension,7,3,243602.61500000002,7,High Risk
+3931,64.0,Female,Hypertension,7,5,242408.67625000002,7,High Risk
+11479,61.0,Male,Asthma,7,4,241505.09125000003,7,High Risk
+8382,68.0,Female,Heart Failure,6,3,241348.27625,7,High Risk
+9710,64.0,Female,Cancer,4,4,241078.01750000002,7,High Risk
+11818,65.0,Male,Diabetes,5,4,241030.43125,7,High Risk
+8652,82.0,Female,Asthma,6,4,240918.31875,7,High Risk
+7399,75.0,Female,Copd,3,3,240663.5075,7,High Risk
+11974,89.0,Male,Ckd,3,2,240269.225,7,High Risk
+7132,61.0,Female,Hypertension,5,3,240201.69625000004,7,High Risk
+6009,64.0,Female,Ckd,4,4,239012.94375000003,7,High Risk
+2621,86.0,Female,Hypertension,4,4,238321.11625,7,High Risk
+5475,92.0,Male,Diabetes,7,5,237373.3475,7,High Risk
+327,66.0,Female,Cancer,7,4,237224.2925,7,High Risk
+11762,66.0,Female,Diabetes,4,2,237000.9425,7,High Risk
+9599,64.0,Female,Hypertension,7,6,236819.91125,7,High Risk
+7907,62.0,Male,Ckd,5,1,234596.83125000002,7,High Risk
+6417,60.0,Female,Asthma,6,2,233736.84375,7,High Risk
+9502,68.0,Male,Heart Failure,5,3,233229.31625,7,High Risk
+4645,63.0,Female,Ckd,6,4,231809.45750000002,7,High Risk
+2181,67.0,Male,Diabetes,4,2,231575.9175,7,High Risk
+1573,66.0,Male,Diabetes,4,3,230642.34500000003,7,High Risk
+9902,61.0,Female,Cancer,7,5,230224.0975,7,High Risk
+11648,67.0,Female,Hypertension,4,0,229573.27625000002,7,High Risk
+86,78.0,Male,Hypertension,6,4,229024.90750000003,7,High Risk
+11948,79.0,Female,Diabetes,6,2,228190.08000000005,7,High Risk
+1588,74.0,Female,Asthma,4,2,228018.6975,7,High Risk
+3890,76.0,Male,Diabetes,4,3,227833.79625,7,High Risk
+3283,60.0,Female,Hypertension,5,2,227094.85375,7,High Risk
+2314,60.0,Female,Ckd,4,2,226467.51125000004,7,High Risk
+11167,82.0,Male,Hypertension,8,5,226412.18625000003,7,High Risk
+2363,62.0,Male,Hypertension,5,4,225897.65125,7,High Risk
+4316,76.0,Male,Copd,7,6,225513.46250000002,7,High Risk
+11864,70.0,Female,Diabetes,4,2,225509.02125000002,7,High Risk
+4429,67.0,Female,Diabetes,6,3,225471.47375,7,High Risk
+10775,67.0,Male,Ckd,5,2,224618.4175,7,High Risk
+1557,63.0,Male,Hypertension,5,3,224539.18625000003,7,High Risk
+9552,66.0,Female,Asthma,4,2,224296.8675,7,High Risk
+9721,69.0,Male,Copd,7,1,224185.8225,7,High Risk
+11825,69.0,Female,Asthma,4,3,223582.56375000003,7,High Risk
+11823,82.0,Male,Diabetes,5,3,222207.34000000003,7,High Risk
+6502,61.0,Female,Diabetes,5,4,221093.3875,7,High Risk
+4512,63.0,Male,Copd,3,1,219269.55625000002,7,High Risk
+7813,72.0,Female,Ckd,4,2,219074.85625,7,High Risk
+4935,62.0,Female,Diabetes,5,3,218720.175,7,High Risk
+11779,72.0,Male,Diabetes,6,5,218671.61375000002,7,High Risk
+2519,76.0,Male,Hypertension,8,6,218637.16250000003,7,High Risk
+11711,71.0,Male,Hypertension,6,4,218264.77875,7,High Risk
+8972,67.0,Male,Hypertension,4,3,217406.41000000003,7,High Risk
+11623,78.0,Male,Copd,4,1,216489.53875,7,High Risk
+9631,67.0,unknown,Diabetes,6,1,215504.27750000003,7,High Risk
+676,92.0,Male,Hypertension,6,6,214157.61750000002,7,High Risk
+2639,62.0,Female,Cancer,4,2,214020.48,7,High Risk
+1291,72.0,Male,Heart Failure,4,2,213335.84,7,High Risk
+4168,65.0,Female,Asthma,5,4,212781.18875,7,High Risk
+11880,77.0,Female,Diabetes,7,4,212627.58250000002,7,High Risk
+6204,70.0,Female,Heart Failure,6,3,212598.44625,7,High Risk
+9816,62.0,Male,Diabetes,4,1,212400.27500000002,7,High Risk
+5948,68.0,Female,Heart Failure,4,4,212110.99875000003,7,High Risk
+8194,73.0,Female,Diabetes,5,3,212013.4375,7,High Risk
+10225,66.0,Female,Heart Failure,4,1,211720.62125000003,7,High Risk
+11509,73.0,Male,Ckd,4,2,211295.0375,7,High Risk
+3795,61.0,Male,Hypertension,5,4,211242.01875,7,High Risk
+4388,64.0,Female,Heart Failure,4,3,211044.1225,7,High Risk
+9834,67.0,Female,Diabetes,5,3,210687.90875,7,High Risk
+5645,70.0,Female,Copd,5,2,209997.89,7,High Risk
+9318,75.0,Female,Hypertension,7,5,209972.81375,7,High Risk
+190,78.0,Female,Hypertension,5,5,209372.55750000002,7,High Risk
+1922,70.0,Male,Heart Failure,7,6,209370.89375000002,7,High Risk
+8647,62.0,Female,Asthma,5,3,208705.7425,7,High Risk
+4261,75.0,Male,Diabetes,4,3,207909.09625000003,7,High Risk
+2709,74.0,Female,Asthma,7,5,207848.11875,7,High Risk
+5712,70.0,Female,Hypertension,6,5,207646.1225,7,High Risk
+11501,74.0,Female,Hypertension,5,5,207539.1525,7,High Risk
+8708,70.0,Female,Asthma,7,3,207419.7125,7,High Risk
+3900,66.0,Male,Hypertension,4,2,207404.82875,7,High Risk
+11757,66.0,Female,Diabetes,5,2,206692.04374999998,7,High Risk
+4703,81.0,Female,Asthma,6,5,206341.25,7,High Risk
+1069,69.0,Male,Hypertension,3,2,205879.98875,7,High Risk
+5034,72.0,Male,Hypertension,4,2,205791.1025,7,High Risk
+11347,63.0,Female,Diabetes,6,3,205207.4775,7,High Risk
+11211,91.0,Male,Asthma,4,3,205077.59375000003,7,High Risk
+11613,81.0,Male,Heart Failure,3,3,204994.5775,7,High Risk
+11560,76.0,Male,Hypertension,6,2,203749.8875,7,High Risk
+280,67.0,Male,Copd,4,2,203555.73875000002,7,High Risk
+8743,65.0,Male,Diabetes,5,4,203505.98125,7,High Risk
+2356,73.0,Female,Ckd,5,1,202983.62125000003,7,High Risk
+10449,94.0,Female,Hypertension,4,3,202391.40750000003,7,High Risk
+11574,69.0,Female,Heart Failure,5,3,201865.57625,7,High Risk
+154,79.0,Male,Hypertension,6,4,201298.5125,7,High Risk
+8192,73.0,Male,Asthma,4,3,200589.9325,7,High Risk
+4471,61.0,Male,Hypertension,4,3,200004.13749999998,7,High Risk
+3401,78.0,Male,Diabetes,5,4,199853.13874999998,7,High Risk
+1919,66.0,Male,Diabetes,4,2,199758.64250000002,7,High Risk
+5807,75.0,Female,Hypertension,5,3,198962.83250000002,7,High Risk
+1782,63.0,Female,Hypertension,8,2,198398.18375000003,7,High Risk
+2120,77.0,Female,Hypertension,6,6,198241.31625000003,7,High Risk
+4876,67.0,Male,Cancer,4,3,198230.41625,7,High Risk
+5596,69.0,Male,Diabetes,4,2,197477.76750000005,7,High Risk
+1846,71.0,Female,Asthma,4,2,197347.89750000002,7,High Risk
+1161,66.0,Male,Diabetes,5,3,196871.9975,7,High Risk
+9123,63.0,Male,Copd,5,2,196416.4875,7,High Risk
+7254,73.0,Male,Diabetes,4,1,196230.0,7,High Risk
+4039,70.0,Female,Copd,3,2,196172.45625000002,7,High Risk
+6114,96.0,Female,Heart Failure,4,4,196107.31875000003,7,High Risk
+2792,63.0,Male,Diabetes,6,4,194863.68625000003,7,High Risk
+2746,75.0,Female,Diabetes,3,1,194722.0625,7,High Risk
+7349,62.0,Male,Hypertension,4,3,194697.29875000002,7,High Risk
+4917,77.0,Male,Diabetes,6,5,194099.27750000003,7,High Risk
+11812,76.0,Female,Copd,5,5,193646.46875,7,High Risk
+10677,89.0,Male,Diabetes,5,3,193059.3775,7,High Risk
+6159,72.0,Female,Heart Failure,6,5,192265.2825,7,High Risk
+2980,82.0,Female,Copd,3,1,192085.22125,7,High Risk
+5446,79.0,Male,Copd,8,4,191864.02375000002,7,High Risk
+4426,61.0,Male,Heart Failure,3,1,191514.07625,7,High Risk
+10942,77.0,Male,Copd,5,3,191395.2575,7,High Risk
+4229,65.0,Male,Diabetes,6,5,189917.75625000003,7,High Risk
+11143,60.0,Female,Asthma,7,6,189712.67375000002,7,High Risk
+1694,88.0,Male,Diabetes,5,4,189686.0725,7,High Risk
+1071,64.0,Male,Asthma,5,4,189490.60625,7,High Risk
+7479,67.0,Male,Asthma,5,4,189343.60125,7,High Risk
+1408,74.0,Female,Ckd,3,2,189037.59625,7,High Risk
+11527,65.0,Male,Cancer,5,2,188934.0775,7,High Risk
+11810,74.0,Male,Hypertension,4,3,188370.52750000003,7,High Risk
+983,75.0,Male,Cancer,4,4,187901.09750000003,7,High Risk
+6549,68.0,Male,Copd,6,2,187834.40875,7,High Risk
+359,68.0,other,Asthma,5,3,187760.72249999997,7,High Risk
+11539,86.0,Female,Ckd,4,2,187689.9675,7,High Risk
+5126,66.0,Female,Hypertension,5,2,187478.4025,7,High Risk
+1218,66.0,Male,Copd,4,2,187182.1375,7,High Risk
+7966,63.0,Female,Diabetes,5,4,187113.4475,7,High Risk
+10577,60.0,Male,Diabetes,4,2,186991.19875,7,High Risk
+335,62.0,Female,Hypertension,7,4,186741.72,7,High Risk
+9740,69.0,Male,Cancer,4,1,186468.34625,7,High Risk
+1660,62.0,Male,Copd,3,2,186306.4675,7,High Risk
+7184,75.0,unknown,Ckd,6,4,185940.0775,7,High Risk
+7293,64.0,Female,Asthma,4,3,185913.25999999998,7,High Risk
+2468,61.0,Female,Hypertension,6,4,185476.43750000003,7,High Risk
+3586,68.0,Female,Asthma,3,1,185468.5725,7,High Risk
+8803,72.0,Female,Cancer,5,3,185354.5275,7,High Risk
+5433,64.0,Male,Asthma,4,4,184909.92250000002,7,High Risk
+980,64.0,Male,Diabetes,7,5,184618.21375,7,High Risk
+2741,69.0,Female,Hypertension,5,4,183823.24375000002,7,High Risk
+9849,70.0,Female,Heart Failure,5,3,183029.40875,7,High Risk
+4618,61.0,Male,Diabetes,5,1,182463.85125000004,7,High Risk
+11763,65.0,Female,Heart Failure,4,2,182084.75625000003,7,High Risk
+11596,64.0,Male,Copd,3,1,182028.3175,7,High Risk
+3992,61.0,Male,Copd,5,3,181999.1125,7,High Risk
+5401,75.0,Female,Heart Failure,5,4,181930.67750000002,7,High Risk
+11890,69.0,Male,Hypertension,5,4,181899.3075,7,High Risk
+4545,66.0,Female,Hypertension,5,3,181849.85875,7,High Risk
+1452,65.0,Male,Diabetes,4,2,181768.8125,7,High Risk
+9997,81.0,Female,Copd,4,2,181755.29750000002,7,High Risk
+10630,73.0,Female,Diabetes,3,1,181333.31625000003,7,High Risk
+11928,79.0,Male,Asthma,4,3,181073.4825,7,High Risk
+8689,72.0,Male,Diabetes,5,3,180978.90750000003,7,High Risk
+6475,65.0,Male,Hypertension,6,4,180727.17250000002,7,High Risk
+2037,79.0,Male,Diabetes,6,4,180495.74375,7,High Risk
+2157,62.0,Female,Asthma,5,2,179813.34875,7,High Risk
+11445,64.0,Male,Ckd,5,3,179142.78875,7,High Risk
+8296,73.0,Male,Diabetes,4,4,178808.82875,7,High Risk
+11660,70.0,Female,Hypertension,5,3,178606.435,7,High Risk
+1512,72.0,Male,Heart Failure,5,2,178121.14750000002,7,High Risk
+11467,74.0,Male,Hypertension,3,2,177172.50375,7,High Risk
+4453,78.0,Male,Hypertension,5,2,177084.62625,7,High Risk
+11431,70.0,Male,Hypertension,5,3,176606.7325,7,High Risk
+11522,77.0,Male,Asthma,5,5,175692.0675,7,High Risk
+5205,81.0,Male,Diabetes,5,5,175514.25875,7,High Risk
+9004,66.0,Female,Diabetes,4,4,175475.2525,7,High Risk
+2092,68.0,Male,Hypertension,3,1,175278.41625,7,High Risk
+6847,94.0,Female,Asthma,4,3,174402.64,7,High Risk
+2061,85.0,Male,Heart Failure,4,2,174102.96875,7,High Risk
+7785,63.0,Male,Hypertension,8,6,173822.47750000004,7,High Risk
+5774,67.0,Female,Diabetes,3,1,173314.34750000003,7,High Risk
+10885,74.0,Male,Diabetes,4,3,173257.82875,7,High Risk
+838,96.0,Female,Asthma,8,6,172804.7475,7,High Risk
+2757,83.0,Male,Diabetes,3,2,172768.54625,7,High Risk
+6975,61.0,Male,Asthma,4,2,172709.645,7,High Risk
+10277,62.0,Female,Diabetes,6,4,172186.25375,7,High Risk
+6873,66.0,Female,Diabetes,4,1,171666.07,7,High Risk
+772,68.0,Male,Copd,3,3,171027.3375,7,High Risk
+11721,70.0,Male,Hypertension,5,5,170909.97749999998,7,High Risk
+290,67.0,Female,Asthma,4,1,170604.10125,7,High Risk
+11792,68.0,Male,Hypertension,3,2,170531.01750000005,7,High Risk
+6174,67.0,Female,Copd,5,3,170482.72625,7,High Risk
+4812,74.0,Female,Heart Failure,5,2,170450.43875,7,High Risk
+10548,63.0,Female,Diabetes,5,4,170095.05875,7,High Risk
+3155,63.0,Male,Cancer,5,3,169758.73375,7,High Risk
+1932,74.0,Male,Copd,5,1,169307.3475,7,High Risk
+5868,78.0,Male,Hypertension,3,3,169237.64750000002,7,High Risk
+11852,60.0,Male,Cancer,5,1,168979.94375,7,High Risk
+4268,66.0,Female,Copd,7,6,168454.2825,7,High Risk
+11387,74.0,Male,Diabetes,5,2,168378.08750000002,7,High Risk
+1458,60.0,Female,Asthma,5,4,168337.61625000002,7,High Risk
+8580,60.0,Male,Diabetes,3,2,168239.69125,7,High Risk
+6154,62.0,Female,Hypertension,4,2,166435.04750000004,7,High Risk
+4578,63.0,Female,Hypertension,5,4,166193.43,7,High Risk
+915,62.0,Male,Hypertension,4,1,166172.77875,7,High Risk
+1528,96.0,Male,Asthma,5,4,166033.42875000002,7,High Risk
+8979,61.0,Male,Diabetes,3,1,165851.4425,7,High Risk
+2805,80.0,Male,Diabetes,6,3,165639.165,7,High Risk
+11732,76.0,Female,Diabetes,7,6,165377.8825,7,High Risk
+8160,86.0,Female,Ckd,3,2,164873.71750000003,7,High Risk
+11941,87.0,Male,Asthma,5,3,164354.16875,7,High Risk
+11991,70.0,Male,Asthma,5,5,164021.15875,7,High Risk
+11766,69.0,Female,Hypertension,5,3,163933.3225,7,High Risk
+4764,76.0,Female,Diabetes,4,3,163824.79750000002,7,High Risk
+342,65.0,Male,Diabetes,4,2,163753.08250000002,7,High Risk
+7420,83.0,Female,Hypertension,5,2,163630.71,7,High Risk
+9134,64.0,Female,Copd,4,3,163611.95125,7,High Risk
+10679,80.0,Female,Diabetes,4,2,163437.16625,7,High Risk
+11907,64.0,Male,Hypertension,4,3,163174.13999999998,7,High Risk
+11015,74.0,Male,Asthma,5,2,162934.17250000002,7,High Risk
+2299,61.0,Male,Copd,6,3,162198.17125,7,High Risk
+11625,70.0,Female,Hypertension,3,2,162128.6375,7,High Risk
+3632,62.0,Female,Asthma,7,3,161916.9975,7,High Risk
+5114,60.0,Female,Hypertension,4,2,161857.635,7,High Risk
+5494,60.0,Male,Heart Failure,5,3,161801.58750000002,7,High Risk
+11615,82.0,Male,Hypertension,6,3,161781.58875,7,High Risk
+5402,62.0,Female,Asthma,3,3,161624.5175,7,High Risk
+10432,76.0,Female,Copd,3,3,161302.0575,7,High Risk
+5333,65.0,Female,Diabetes,4,3,161263.2275,7,High Risk
+2450,69.0,Female,Asthma,5,4,161077.23625000002,7,High Risk
+10364,73.0,Male,Hypertension,5,4,160677.79750000004,7,High Risk
+6304,69.0,Female,Heart Failure,3,1,160512.1325,7,High Risk
+10868,60.0,Male,Diabetes,3,2,160399.0275,7,High Risk
+10914,77.0,Female,Ckd,5,3,160282.22875,7,High Risk
+6440,74.0,Male,Hypertension,4,2,160165.20625000002,7,High Risk
+1232,63.0,Female,Heart Failure,3,3,160102.84750000003,7,High Risk
+11724,63.0,Female,Hypertension,8,5,159779.58375000002,7,High Risk
+422,71.0,Female,Hypertension,3,2,159510.49125000002,7,High Risk
+10680,62.0,Male,Heart Failure,5,3,159229.66375,7,High Risk
+5667,61.0,Female,Ckd,4,1,159146.76625000002,7,High Risk
+5302,70.0,Female,Diabetes,4,2,158370.475,7,High Risk
+389,71.0,Female,Copd,6,6,158148.99375,7,High Risk
+6870,82.0,Female,Hypertension,4,4,158056.9075,7,High Risk
+9941,73.0,Female,Hypertension,4,2,157904.04375,7,High Risk
+5546,70.0,Male,Cancer,4,3,157840.2575,7,High Risk
+1351,60.0,Female,Copd,4,1,157829.21875,7,High Risk
+2496,60.0,Male,Copd,5,5,157654.08,7,High Risk
+11578,76.0,Female,Diabetes,4,4,157529.69375,7,High Risk
+9789,69.0,Female,Diabetes,5,3,157376.41375,7,High Risk
+7825,91.0,Male,Hypertension,6,5,157368.6975,7,High Risk
+11943,61.0,Male,Asthma,4,0,157257.1175,7,High Risk
+11622,67.0,Male,Ckd,3,3,157003.72,7,High Risk
+381,64.0,Male,Hypertension,3,2,156664.45875000002,7,High Risk
+6554,60.0,Male,Asthma,4,2,156598.155,7,High Risk
+10741,62.0,Male,Diabetes,4,2,156550.8225,7,High Risk
+1435,62.0,Female,Asthma,3,2,156528.49625000003,7,High Risk
+11362,64.0,Male,Hypertension,5,3,156400.46375,7,High Risk
+11837,72.0,Male,Asthma,7,7,156384.7175,7,High Risk
+11787,63.0,Female,Diabetes,3,2,156075.4275,7,High Risk
+355,75.0,Female,Ckd,3,3,155788.7375,7,High Risk
+11350,61.0,Female,Cancer,6,6,155700.67875000002,7,High Risk
+8107,77.0,Female,Hypertension,4,4,155583.05875,7,High Risk
+5621,62.0,Male,Heart Failure,3,2,155396.0075,7,High Risk
+8657,74.0,Female,Hypertension,5,4,155218.90125000002,7,High Risk
+2481,68.0,Female,Heart Failure,5,2,155136.35875,7,High Risk
+10097,72.0,Male,Hypertension,4,1,155026.96500000003,7,High Risk
+11850,69.0,Female,Heart Failure,5,3,154939.97375,7,High Risk
+10226,60.0,Female,Cancer,3,2,154893.81875,7,High Risk
+3646,64.0,Female,Diabetes,5,2,154771.6975,7,High Risk
+70,89.0,Female,Copd,6,6,154549.9975,7,High Risk
+1772,83.0,Male,Heart Failure,4,3,154174.83375,7,High Risk
+5720,68.0,Male,Hypertension,7,5,153980.93375,7,High Risk
+6312,62.0,Male,Diabetes,6,4,153765.77750000003,7,High Risk
+5640,73.0,Female,Cancer,5,4,153680.07875000002,7,High Risk
+1448,70.0,Female,Ckd,4,3,153666.07374999998,7,High Risk
+6929,74.0,unknown,Ckd,3,2,153259.06875,7,High Risk
+2436,73.0,Female,Hypertension,5,3,152816.20750000002,7,High Risk
+4221,61.0,Female,Diabetes,4,0,152674.67500000002,7,High Risk
+11944,70.0,Female,Diabetes,4,3,152601.11875000002,7,High Risk
+456,91.0,Male,Diabetes,5,4,152535.67250000002,7,High Risk
+2031,63.0,Female,Diabetes,5,3,152364.79375,7,High Risk
+4273,60.0,Female,Hypertension,4,2,152237.77250000002,7,High Risk
+9555,80.0,Female,Hypertension,4,3,152117.13,7,High Risk
+7548,76.0,Male,Ckd,5,5,152024.74,7,High Risk
+11573,66.0,Female,Hypertension,3,2,151944.65750000003,7,High Risk
+6432,67.0,Female,Copd,3,3,151562.39750000002,7,High Risk
+6001,62.0,Male,Diabetes,4,3,150807.4475,7,High Risk
+2588,81.0,Female,Hypertension,5,4,150508.87875,7,High Risk
+11048,61.0,Female,Diabetes,4,3,150207.75875,7,High Risk
+9166,79.0,Female,Diabetes,4,3,150188.92625000002,7,High Risk
+9401,73.0,Male,Asthma,5,2,149841.0125,7,High Risk
+4556,68.0,Male,Diabetes,5,3,149485.7275,7,High Risk
+3186,61.0,Female,Hypertension,4,3,149476.40250000003,7,High Risk
+9995,62.0,Female,Hypertension,6,3,149422.73,7,High Risk
+2604,68.0,Male,Diabetes,4,1,148990.31250000003,7,High Risk
+10418,62.0,Female,Heart Failure,6,4,148820.76375,7,High Risk
+4786,60.0,Male,Hypertension,4,2,148800.20875000002,7,High Risk
+1012,70.0,Female,Asthma,5,2,148697.2275,7,High Risk
+3711,62.0,Male,Cancer,4,2,148670.05,7,High Risk
+5377,60.0,Female,Hypertension,5,1,148339.20375000002,7,High Risk
+5135,69.0,Male,Asthma,5,3,148307.39375000002,7,High Risk
+11629,78.0,Female,Hypertension,3,2,148101.42875,7,High Risk
+8223,61.0,Male,Ckd,4,2,147711.7025,7,High Risk
+6771,60.0,Female,Heart Failure,4,2,147326.3425,7,High Risk
+9990,74.0,Male,Heart Failure,4,3,147258.70375000002,7,High Risk
+6997,61.0,Male,Heart Failure,4,3,146993.2775,7,High Risk
+178,66.0,Female,Heart Failure,3,1,146920.21625000003,7,High Risk
+6416,64.0,Female,Hypertension,4,2,146706.95875000002,7,High Risk
+3364,75.0,Male,Hypertension,5,4,146597.12625000003,7,High Risk
+4534,68.0,Female,Copd,3,1,146477.96750000003,7,High Risk
+2825,82.0,Male,Heart Failure,5,4,146449.94875,7,High Risk
+4174,69.0,Male,Ckd,5,4,146188.58125,7,High Risk
+7499,89.0,Male,Asthma,4,4,145904.92875000002,7,High Risk
+11549,62.0,Female,Diabetes,4,1,145890.2475,7,High Risk
+4607,62.0,Male,Copd,3,2,145809.65875,7,High Risk
+11518,82.0,Male,Ckd,4,2,145702.01375,7,High Risk
+6510,65.0,Male,Diabetes,7,2,145692.45500000002,7,High Risk
+6229,75.0,Male,Copd,5,4,145320.72875,7,High Risk
+8494,69.0,Female,Diabetes,3,2,145274.98,7,High Risk
+5822,77.0,Female,Asthma,3,2,145098.66375,7,High Risk
+4257,60.0,Male,Asthma,4,3,145076.15,7,High Risk
+8807,67.0,Female,Diabetes,5,2,144598.1775,7,High Risk
+11996,77.0,Female,Asthma,5,3,144196.68875000003,7,High Risk
+3181,66.0,Female,Hypertension,4,3,143848.33750000002,7,High Risk
+7094,80.0,Female,Copd,5,2,143821.42875000002,7,High Risk
+1586,66.0,Male,Asthma,5,3,143735.55000000002,7,High Risk
+7385,61.0,Female,Hypertension,5,4,143347.1675,7,High Risk
+3940,68.0,Female,Hypertension,3,2,143143.29750000002,7,High Risk
+8342,71.0,Female,Heart Failure,4,3,143101.71,7,High Risk
+11808,72.0,Female,Heart Failure,4,2,142719.8775,7,High Risk
+6300,83.0,Male,Hypertension,5,1,142374.97125,7,High Risk
+11950,69.0,Male,Asthma,5,4,142294.49875,7,High Risk
+5650,73.0,Male,Copd,3,1,142081.47625,7,High Risk
+11799,84.0,Male,Diabetes,4,2,141940.1,7,High Risk
+4858,60.0,Male,Diabetes,4,1,141800.515,7,High Risk
+6926,64.0,Female,Copd,5,4,141696.66499999998,7,High Risk
+2173,68.0,Female,Asthma,5,3,141689.84375,7,High Risk
+662,60.0,Female,Hypertension,4,2,141686.48249999998,7,High Risk
+1925,82.0,Male,Hypertension,6,5,141348.14250000002,7,High Risk
+514,90.0,Female,Hypertension,8,7,141049.005,7,High Risk
+11985,67.0,Female,Hypertension,4,3,141022.3775,7,High Risk
+3941,60.0,Male,Ckd,3,2,140894.70375,7,High Risk
+11566,78.0,Male,Diabetes,5,2,140677.23375,7,High Risk
+5362,64.0,unknown,Cancer,5,4,140668.12875,7,High Risk
+5451,62.0,Male,Asthma,4,3,139993.8775,7,High Risk
+1258,94.0,Male,Copd,3,2,139759.19875,7,High Risk
+3683,68.0,Female,Heart Failure,4,4,139532.09375,7,High Risk
+358,64.0,Female,Diabetes,4,1,139486.71750000003,7,High Risk
+2401,64.0,Female,Hypertension,3,1,139427.72375,7,High Risk
+5588,78.0,Female,Asthma,4,2,139334.15375,7,High Risk
+11970,65.0,Male,Copd,4,2,139234.88875,7,High Risk
+535,71.0,Male,Asthma,5,2,138666.45375000002,7,High Risk
+630,73.0,Female,Hypertension,4,1,138469.60375,7,High Risk
+9248,73.0,Female,Heart Failure,4,1,138409.34,7,High Risk
+6749,65.0,Male,Diabetes,3,2,138258.20750000002,7,High Risk
+5961,96.0,Male,Heart Failure,4,3,138220.01750000002,7,High Risk
+6953,74.0,Female,Asthma,4,4,138204.54750000002,7,High Risk
+2547,66.0,Male,Asthma,5,4,138106.29750000002,7,High Risk
+1700,72.0,Male,Diabetes,3,3,138064.32875000002,7,High Risk
+7877,61.0,Male,Copd,5,3,137781.0375,7,High Risk
+3352,76.0,Male,Hypertension,4,4,137696.59875,7,High Risk
+1283,62.0,Female,Heart Failure,3,1,137271.08375,7,High Risk
+6919,65.0,Female,Hypertension,3,2,136995.29875000002,7,High Risk
+11691,84.0,Male,Diabetes,3,2,136857.94875,7,High Risk
+8021,69.0,Male,Diabetes,5,3,136823.96875,7,High Risk
+519,63.0,Female,Cancer,4,2,136681.3875,7,High Risk
+4745,60.0,Female,Diabetes,3,1,136189.41999999998,7,High Risk
+5999,62.0,Female,Copd,3,1,135767.6975,7,High Risk
+2568,75.0,Female,Asthma,5,4,135745.1375,7,High Risk
+10427,71.0,Female,Diabetes,4,3,135695.87875,7,High Risk
+3333,67.0,Male,Copd,7,3,135488.11750000002,7,High Risk
+5118,65.0,Female,Diabetes,4,3,135456.11875,7,High Risk
+2456,80.0,Female,Diabetes,3,1,135177.2475,7,High Risk
+8878,70.0,Male,Hypertension,3,2,135159.76750000002,7,High Risk
+11883,68.0,Female,Asthma,4,3,134964.155,7,High Risk
+1273,62.0,Female,Heart Failure,5,2,134714.91499999998,7,High Risk
+7534,93.0,Male,Hypertension,4,3,134702.9175,7,High Risk
+10766,63.0,Female,Hypertension,5,2,134544.1325,7,High Risk
+10787,66.0,Male,Diabetes,5,3,134435.58000000002,7,High Risk
+11958,70.0,Female,Hypertension,4,3,134348.64,7,High Risk
+1406,71.0,Male,Copd,4,1,134128.08875,7,High Risk
+1055,64.0,Female,Ckd,3,2,134113.92875000002,7,High Risk
+10717,69.0,Male,Ckd,5,3,133643.8825,7,High Risk
+11959,65.0,Female,Ckd,5,4,133612.99375000002,7,High Risk
+1962,62.0,Female,Diabetes,5,3,133263.005,7,High Risk
+8677,61.0,Male,Diabetes,4,4,133262.54875000002,7,High Risk
+4153,66.0,Male,Heart Failure,3,1,133179.89875,7,High Risk
+864,72.0,Female,Ckd,3,3,133142.01875,7,High Risk
+7546,75.0,Male,Hypertension,3,2,133135.29750000002,7,High Risk
+7694,74.0,unknown,Copd,3,2,133067.48750000002,7,High Risk
+11543,76.0,Female,Heart Failure,5,0,132742.72875,7,High Risk
+11931,96.0,Male,Hypertension,5,2,132533.355,7,High Risk
+900,73.0,Female,Diabetes,5,4,132333.04375,7,High Risk
+5122,66.0,Male,Diabetes,4,3,132268.305,7,High Risk
+4929,64.0,Male,Diabetes,4,2,132253.3275,7,High Risk
+11461,65.0,Female,Hypertension,4,1,131913.83000000002,7,High Risk
+11747,65.0,Female,Heart Failure,5,2,131771.385,7,High Risk
+7370,76.0,Female,Diabetes,5,4,131664.625,7,High Risk
+2412,79.0,Female,Diabetes,3,2,131502.56875,7,High Risk
+8735,64.0,Male,Diabetes,5,2,131381.96250000002,7,High Risk
+830,75.0,Female,Hypertension,5,4,131001.72,7,High Risk
+10762,71.0,Male,Copd,4,2,130975.59875,7,High Risk
+5083,69.0,Male,Diabetes,3,2,130866.61875000001,7,High Risk
+11701,76.0,Female,Cancer,5,2,130852.11625000002,7,High Risk
+11775,76.0,Female,Asthma,5,3,130841.32750000001,7,High Risk
+1381,69.0,Male,Diabetes,4,2,130703.62875,7,High Risk
+11553,64.0,Male,Diabetes,5,3,130695.8325,7,High Risk
+8929,74.0,Male,Ckd,3,2,130593.2475,7,High Risk
+4255,60.0,Female,Hypertension,3,1,130555.16375,7,High Risk
+636,84.0,Female,Copd,5,4,130324.39375,7,High Risk
+7618,63.0,Female,Diabetes,3,2,129930.16375,7,High Risk
+7978,69.0,Female,Hypertension,5,4,129770.875,7,High Risk
+2158,73.0,Male,Copd,5,5,129466.13500000001,7,High Risk
+11656,74.0,Male,Hypertension,4,4,129366.62875,7,High Risk
+7092,60.0,Male,Hypertension,3,3,129219.5475,7,High Risk
+11849,71.0,Male,Hypertension,3,3,129135.835,7,High Risk
+5674,64.0,Female,Copd,4,3,129008.67875,7,High Risk
+6231,70.0,Male,Heart Failure,5,4,128964.61,7,High Risk
+11822,75.0,Female,Copd,4,3,128962.54374999998,7,High Risk
+3059,69.0,Female,Hypertension,5,4,128787.22875000001,7,High Risk
+2896,61.0,Male,Cancer,4,3,128765.76999999999,7,High Risk
+8118,82.0,Male,Copd,3,3,128480.01250000001,7,High Risk
+9218,70.0,Male,Heart Failure,6,5,128203.245,7,High Risk
+3624,66.0,Female,Diabetes,4,4,127712.67875000002,7,High Risk
+732,73.0,Male,Diabetes,3,1,127659.08875,7,High Risk
+10847,85.0,Male,Heart Failure,4,3,127611.55875,7,High Risk
+703,60.0,Female,Copd,4,3,127511.26875,7,High Risk
+10801,68.0,Male,Diabetes,4,3,127502.65,7,High Risk
+10411,62.0,Female,Hypertension,5,4,127496.22875,7,High Risk
+8307,71.0,Male,Copd,5,4,127396.10375000001,7,High Risk
+6170,63.0,Female,Copd,3,2,126998.2525,7,High Risk
+8753,61.0,Male,Cancer,3,3,126802.71,7,High Risk
+405,63.0,Female,Diabetes,4,3,126780.98375000001,7,High Risk
+7950,63.0,Male,Hypertension,4,3,126769.75375,7,High Risk
+6779,70.0,Male,Hypertension,5,3,126394.78875,7,High Risk
+5850,72.0,Female,Hypertension,5,2,126379.47875,7,High Risk
+8732,62.0,Male,Ckd,4,3,125510.42875,7,High Risk
+8600,68.0,Female,Ckd,3,2,125478.26875,7,High Risk
+11330,82.0,Female,Hypertension,4,3,124460.67875,7,High Risk
+2204,69.0,Female,Copd,6,3,124318.68875,7,High Risk
+7690,71.0,Female,Hypertension,4,4,123967.98875,7,High Risk
+5483,72.0,Male,Hypertension,3,2,123834.25,7,High Risk
+2813,66.0,Female,Heart Failure,3,2,123707.905,7,High Risk
+6113,65.0,Male,Copd,3,2,123360.81250000003,7,High Risk
+209,73.0,Female,Hypertension,3,2,123079.79000000001,7,High Risk
+6141,77.0,Male,Asthma,4,3,122936.22,7,High Risk
+11795,74.0,Male,Hypertension,3,3,122684.15,7,High Risk
+3143,79.0,Male,Ckd,3,1,122639.07250000001,7,High Risk
+1791,62.0,Female,Hypertension,3,3,122628.99250000001,7,High Risk
+891,62.0,Female,Diabetes,5,3,122407.43875,7,High Risk
+10248,75.0,Male,Hypertension,4,4,122232.22375,7,High Risk
+5347,74.0,Male,Asthma,4,4,121969.70875,7,High Risk
+11715,63.0,Female,Hypertension,5,2,121805.425,7,High Risk
+771,61.0,Female,Ckd,5,3,121752.46500000001,7,High Risk
+11267,76.0,Male,Heart Failure,5,4,121292.58875000002,7,High Risk
+5245,90.0,Female,Diabetes,3,3,121189.0075,7,High Risk
+4758,90.0,Male,Ckd,4,4,121115.22,7,High Risk
+452,85.0,Male,Asthma,4,2,121077.15875,7,High Risk
+9992,82.0,Female,Diabetes,5,3,120987.28874999999,7,High Risk
+2790,66.0,Female,Diabetes,4,2,120974.87875,7,High Risk
+7937,66.0,Female,Ckd,4,2,120727.69750000001,7,High Risk
+1152,81.0,Male,Heart Failure,3,2,120655.14750000002,7,High Risk
+1878,62.0,Male,Hypertension,4,1,120478.30374999999,7,High Risk
+4204,63.0,Female,Asthma,3,2,120473.39250000002,7,High Risk
+4599,91.0,Male,Hypertension,7,6,120380.61375000002,7,High Risk
+10716,70.0,Male,Asthma,3,1,120145.40375000001,7,High Risk
+1708,62.0,Female,Ckd,3,2,119801.6575,7,High Risk
+6720,84.0,Female,Asthma,3,2,119780.405,7,High Risk
+11935,71.0,Female,Copd,3,0,119668.7475,7,High Risk
+10503,84.0,Female,Diabetes,5,3,119651.70875000002,7,High Risk
+2552,62.0,Male,Hypertension,4,4,119520.525,7,High Risk
+10174,65.0,Male,Copd,4,2,119207.48875000002,7,High Risk
+393,60.0,Female,Copd,3,1,118996.57,7,High Risk
+11976,73.0,Male,Diabetes,4,1,118870.76375,7,High Risk
+10303,63.0,Male,Hypertension,5,4,118803.48875,7,High Risk
+3243,84.0,Male,Ckd,4,2,118654.32875000002,7,High Risk
+247,77.0,Female,Hypertension,4,3,118385.77000000002,7,High Risk
+11860,78.0,Female,Copd,5,4,118201.18375,7,High Risk
+6430,73.0,Male,Copd,4,2,117741.15750000002,7,High Risk
+7780,84.0,Male,Asthma,6,4,117537.17875,7,High Risk
+11813,62.0,Male,Asthma,4,3,117390.4375,7,High Risk
+1767,89.0,Female,Copd,6,5,116796.31375,7,High Risk
+11507,70.0,Female,Asthma,3,2,115934.24875,7,High Risk
+285,67.0,Male,Ckd,3,2,115799.88875000001,7,High Risk
+554,68.0,Female,Asthma,3,2,115302.59875,7,High Risk
+5264,68.0,Female,Diabetes,3,1,115206.35875000001,7,High Risk
+4247,86.0,Male,Hypertension,4,3,114920.52875,7,High Risk
+8032,61.0,Male,Heart Failure,5,2,114580.44875000001,7,High Risk
+7154,70.0,Female,Diabetes,3,2,114102.96,7,High Risk
+3791,72.0,Female,Diabetes,4,3,114002.96375,7,High Risk
+11274,66.0,Female,Hypertension,4,3,113844.80875,7,High Risk
+8412,75.0,Female,Copd,3,0,113739.68750000001,7,High Risk
+11754,67.0,Male,Diabetes,3,3,113696.08499999999,7,High Risk
+11516,84.0,Male,Ckd,3,1,113497.38,7,High Risk
+6671,69.0,Female,Cancer,6,2,113333.01499999998,7,High Risk
+4677,64.0,Female,Copd,3,2,112527.31000000001,7,High Risk
+2986,61.0,Female,Heart Failure,5,2,112502.41875000001,7,High Risk
+11572,61.0,Male,Asthma,4,3,112331.55875000003,7,High Risk
+7809,79.0,Male,Hypertension,3,3,111910.35875000001,7,High Risk
+1343,89.0,Male,Hypertension,7,3,111779.91374999999,7,High Risk
+918,80.0,Male,Heart Failure,3,3,111764.70875,7,High Risk
+7983,64.0,Male,Ckd,3,3,111319.22750000001,7,High Risk
+9474,64.0,Male,Diabetes,6,5,111243.01500000001,7,High Risk
+11568,78.0,Female,Ckd,7,6,111120.38500000001,7,High Risk
+5019,96.0,Male,Asthma,4,2,111079.43,7,High Risk
+11343,64.0,Female,Ckd,3,2,110798.17750000002,7,High Risk
+8292,60.0,Female,Hypertension,3,2,110726.99250000002,7,High Risk
+11353,81.0,Female,Diabetes,4,2,110580.2175,7,High Risk
+11659,74.0,Male,Diabetes,4,3,110365.50875000001,7,High Risk
+11761,63.0,Female,Diabetes,4,4,110349.81375,7,High Risk
+3622,64.0,Male,Ckd,3,3,110341.13875000001,7,High Risk
+11923,70.0,Male,Copd,3,2,110318.87499999999,7,High Risk
+8,66.0,Female,Diabetes,3,3,110275.07,7,High Risk
+1181,65.0,Female,Copd,3,2,109923.45250000001,7,High Risk
+18,65.0,Female,Hypertension,4,1,109876.53375,7,High Risk
+8961,63.0,Male,Copd,3,3,109798.99,7,High Risk
+2136,60.0,Female,Diabetes,4,1,109754.87,7,High Risk
+10561,96.0,Male,Copd,3,3,109639.67875,7,High Risk
+10266,66.0,Male,Hypertension,4,3,109336.01875,7,High Risk
+9306,74.0,Male,Hypertension,3,3,109300.86875000001,7,High Risk
+5539,87.0,Male,Hypertension,4,3,109258.47,7,High Risk
+6181,93.0,Male,Diabetes,5,4,109031.52875,7,High Risk
+11756,80.0,Male,Asthma,3,2,108716.47,7,High Risk
+8197,61.0,other,Ckd,4,2,108656.20875,7,High Risk
+7720,68.0,Female,Cancer,4,2,108655.2725,7,High Risk
+4074,91.0,Male,Heart Failure,4,3,108606.35875000001,7,High Risk
+6849,66.0,Male,Heart Failure,3,1,108529.19,7,High Risk
+8786,71.0,Male,Asthma,4,3,108505.12,7,High Risk
+11593,74.0,Male,Ckd,4,2,108460.84875,7,High Risk
+9023,63.0,Male,Heart Failure,3,2,108312.21875,7,High Risk
+7919,87.0,Female,Diabetes,5,4,108090.755,7,High Risk
+11975,62.0,Male,Heart Failure,3,2,108059.715,7,High Risk
+9459,67.0,Male,Diabetes,3,2,107885.90000000001,7,High Risk
+3112,62.0,Female,Diabetes,4,2,107824.365,7,High Risk
+6263,61.0,Female,Diabetes,3,1,107821.07750000001,7,High Risk
+3200,72.0,Female,Diabetes,3,3,107670.04375,7,High Risk
+8269,69.0,Female,Hypertension,3,2,107345.565,7,High Risk
+2444,60.0,Female,Ckd,3,2,107237.27,7,High Risk
+1817,62.0,Male,Heart Failure,3,2,107124.57750000001,7,High Risk
+9428,68.0,Female,Ckd,4,3,106962.205,7,High Risk
+3684,79.0,Male,Diabetes,6,3,106866.05500000001,7,High Risk
+11934,78.0,Male,Heart Failure,4,4,106621.93,7,High Risk
+10857,64.0,Female,Copd,4,3,106480.70375000002,7,High Risk
+8333,79.0,Male,Hypertension,3,3,106408.9825,7,High Risk
+3055,65.0,Female,Diabetes,7,6,106394.125,7,High Risk
+5219,67.0,Female,Diabetes,4,2,106325.325,7,High Risk
+6887,63.0,Male,Hypertension,4,3,106228.23874999999,7,High Risk
+1214,60.0,Female,Diabetes,4,3,106199.67874999999,7,High Risk
+11547,79.0,Male,Hypertension,4,3,106064.40000000001,7,High Risk
+11428,60.0,Male,Copd,4,2,105762.8,7,High Risk
+2993,65.0,Female,Asthma,3,3,105748.27,7,High Risk
+3350,78.0,Male,Heart Failure,3,2,105336.675,7,High Risk
+11911,81.0,Male,Heart Failure,6,4,105331.93000000001,7,High Risk
+5708,90.0,Female,Copd,4,3,105312.17499999999,7,High Risk
+323,64.0,Male,Heart Failure,4,1,105263.305,7,High Risk
+6803,68.0,Male,Copd,3,3,105093.725,7,High Risk
+5553,70.0,Female,Hypertension,5,1,104875.35,7,High Risk
+7565,91.0,Female,Cancer,3,3,104709.04999999999,7,High Risk
+6743,64.0,Female,Cancer,5,5,104674.855,7,High Risk
+2764,72.0,Female,Copd,5,3,104593.26000000001,7,High Risk
+11580,72.0,Female,Diabetes,3,3,104473.15875,7,High Risk
+6026,76.0,Female,Hypertension,3,2,104428.53000000001,7,High Risk
+5784,70.0,Male,Asthma,3,1,104330.64499999999,7,High Risk
+3675,67.0,Female,Heart Failure,4,1,104269.50875000001,7,High Risk
+11671,74.0,Male,Diabetes,3,1,104262.22,7,High Risk
+9676,68.0,Female,Hypertension,3,2,103884.2175,7,High Risk
+8876,73.0,Female,Diabetes,3,1,103846.64499999999,7,High Risk
+5878,78.0,Female,Diabetes,4,4,103845.83875000001,7,High Risk
+6632,68.0,Female,Hypertension,3,2,103635.16750000001,7,High Risk
+2277,77.0,Male,Hypertension,3,2,103483.99375000001,7,High Risk
+1705,81.0,Male,Asthma,3,2,103425.94875000001,7,High Risk
+6214,64.0,Male,Heart Failure,4,3,103199.21875,7,High Risk
+9603,87.0,Male,Asthma,3,2,103074.10874999998,7,High Risk
+6867,64.0,Female,Hypertension,3,1,102722.04000000001,7,High Risk
+4494,91.0,Female,Diabetes,5,4,102540.945,7,High Risk
+4139,66.0,Female,Diabetes,3,0,102491.89875,7,High Risk
+3211,80.0,unknown,Ckd,3,3,102480.85500000001,7,High Risk
+9782,71.0,Male,Hypertension,5,2,102436.48875000002,7,High Risk
+8056,64.0,Male,Diabetes,4,4,101625.555,7,High Risk
+8481,95.0,Male,Diabetes,5,5,101010.415,7,High Risk
+11961,90.0,Male,Diabetes,3,2,101009.88750000001,7,High Risk
+8338,63.0,Female,Heart Failure,4,3,100692.44,7,High Risk
+2718,80.0,Female,Asthma,3,3,100654.13375000001,7,High Risk
+4932,80.0,Male,Copd,3,2,100314.035,7,High Risk
+11734,72.0,Male,Diabetes,4,2,100233.54375000001,7,High Risk
+7989,65.0,Male,Heart Failure,5,4,100157.75,7,High Risk
+779,63.0,Female,Asthma,4,2,99757.00375,7,High Risk
+6622,71.0,Male,Hypertension,6,5,99450.515,7,High Risk
+2038,61.0,Female,Copd,3,2,99449.7075,7,High Risk
+11535,65.0,Male,Hypertension,3,2,99169.85,7,High Risk
+6664,95.0,Female,Asthma,4,4,98670.58875,7,High Risk
+6553,96.0,Female,Asthma,5,5,98664.80875000001,7,High Risk
+9343,90.0,Female,Hypertension,3,3,98442.65375,7,High Risk
+10793,64.0,Female,Copd,3,0,98289.35875000001,7,High Risk
+8435,68.0,Male,Diabetes,4,3,98041.46500000001,7,High Risk
+8727,79.0,Female,Diabetes,4,3,97943.29875,7,High Risk
+11558,61.0,Male,Copd,3,0,97803.67875,7,High Risk
+10111,70.0,Male,Diabetes,3,0,97702.99875000001,7,High Risk
+3982,60.0,Female,Diabetes,3,2,97613.63375000001,7,High Risk
+7044,62.0,Male,Hypertension,5,5,97610.60375000001,7,High Risk
+1174,69.0,Female,Copd,4,1,97349.91375,7,High Risk
+37,65.0,Male,Heart Failure,3,2,97318.86750000001,7,High Risk
+11334,60.0,Female,Hypertension,4,4,97212.37999999999,7,High Risk
+8661,62.0,Female,Asthma,4,2,97158.35875,7,High Risk
+378,65.0,Male,Copd,4,3,96544.10875000001,7,High Risk
+7634,65.0,Female,Hypertension,4,2,96172.7575,7,High Risk
+1133,77.0,Female,Diabetes,5,2,95697.77875,7,High Risk
+1089,65.0,Female,Diabetes,6,4,95508.14375,7,High Risk
+11614,89.0,Female,Hypertension,3,2,95496.52,7,High Risk
+4227,60.0,Male,Hypertension,5,2,95373.43375,7,High Risk
+742,79.0,Male,Diabetes,6,4,95335.41500000001,7,High Risk
+4562,61.0,Male,Ckd,3,2,95327.59375,7,High Risk
+9102,77.0,Male,Hypertension,3,2,95310.71875,7,High Risk
+6766,70.0,Female,Asthma,3,3,94662.64375,7,High Risk
+8457,68.0,Female,Diabetes,4,2,94587.465,7,High Risk
+5286,88.0,Female,Ckd,4,1,94552.2,7,High Risk
+8517,81.0,Female,Diabetes,4,4,94503.16375,7,High Risk
+749,80.0,Female,Hypertension,7,6,94406.85500000001,7,High Risk
+5699,65.0,Male,Diabetes,3,2,94334.62250000001,7,High Risk
+8206,62.0,Male,Hypertension,5,1,94279.60875000001,7,High Risk
+5905,60.0,Female,Copd,3,0,94266.90375,7,High Risk
+10855,89.0,Male,Asthma,3,2,94164.5,7,High Risk
+10873,73.0,Male,Diabetes,4,3,93953.50250000002,7,High Risk
+2699,64.0,Female,Diabetes,5,3,93881.72375,7,High Risk
+5795,84.0,Female,Heart Failure,6,5,93873.86000000002,7,High Risk
+11569,73.0,Female,Copd,3,1,93694.0575,7,High Risk
+1077,65.0,Female,Hypertension,3,0,93191.81875,7,High Risk
+11685,64.0,Male,Ckd,4,1,92866.39875,7,High Risk
+10393,63.0,Female,Copd,3,3,92545.3075,7,High Risk
+164,62.0,Male,Hypertension,3,0,91865.46875,7,High Risk
+8304,75.0,Male,Heart Failure,5,3,91688.49375000001,7,High Risk
+6015,63.0,Male,Diabetes,3,2,91457.48,7,High Risk
+11675,76.0,Male,Diabetes,3,0,91128.6275,7,High Risk
+9448,63.0,Female,Copd,4,2,91055.17375,7,High Risk
+11903,75.0,Female,Hypertension,3,3,90988.60875000001,7,High Risk
+11674,83.0,Female,Cancer,4,4,90930.18875,7,High Risk
+594,77.0,Female,Cancer,3,3,90911.65875,7,High Risk
+6165,70.0,Male,Diabetes,3,2,90847.76375,7,High Risk
+11746,67.0,Male,Hypertension,6,4,90476.82,7,High Risk
+11571,66.0,Female,Hypertension,3,2,90414.34875,7,High Risk
+8527,64.0,Female,Diabetes,4,2,90222.805,7,High Risk
+11624,77.0,Female,Diabetes,3,3,90154.40875,7,High Risk
+1200,64.0,Male,Diabetes,5,4,90034.36,7,High Risk
+11544,78.0,Female,Diabetes,3,2,89916.62375000001,7,High Risk
+1021,66.0,unknown,Copd,4,4,89872.59999999999,7,High Risk
+11887,69.0,Male,Copd,3,2,89655.94,7,High Risk
+2850,60.0,Female,Diabetes,3,2,88997.52375000001,7,High Risk
+787,60.0,Female,Heart Failure,3,3,88971.31875,7,High Risk
+11742,71.0,Female,Heart Failure,3,2,88828.005,7,High Risk
+6585,66.0,Female,Ckd,3,3,88679.99375000001,7,High Risk
+7855,73.0,Male,Hypertension,5,3,88176.77875,7,High Risk
+8496,65.0,Male,Hypertension,3,2,87830.84375,7,High Risk
+5543,68.0,Female,Copd,3,3,87826.68,7,High Risk
+6227,60.0,Female,Diabetes,3,2,87820.435,7,High Risk
+5349,67.0,Female,Hypertension,3,2,87795.90875,7,High Risk
+1157,92.0,Female,Hypertension,4,3,87741.52375000002,7,High Risk
+11839,85.0,Male,Diabetes,4,2,87581.685,7,High Risk
+5143,69.0,Female,Diabetes,3,1,87495.37,7,High Risk
+5084,68.0,Male,Hypertension,3,3,87407.99250000002,7,High Risk
+1328,75.0,Female,Hypertension,4,1,87050.53375,7,High Risk
+11506,78.0,Male,Diabetes,3,1,86834.48375000001,7,High Risk
+7127,66.0,Male,Diabetes,3,2,86707.59875,7,High Risk
+8420,72.0,Male,Copd,4,4,86592.945,7,High Risk
+8550,66.0,Female,Hypertension,3,2,86240.02500000001,7,High Risk
+11530,80.0,Male,Diabetes,3,1,85548.61375,7,High Risk
+1505,68.0,Male,Diabetes,3,2,85484.22875000001,7,High Risk
+8778,82.0,Male,Ckd,3,2,85187.7,7,High Risk
+6374,60.0,Female,Ckd,3,3,85024.74375000001,7,High Risk
+8846,63.0,Male,Asthma,4,2,84905.70999999999,7,High Risk
+3374,67.0,Female,Diabetes,4,3,84904.00875000001,7,High Risk
+5505,63.0,Female,Heart Failure,3,1,84515.22,7,High Risk
+4031,72.0,Male,Heart Failure,3,2,84420.70875,7,High Risk
+11223,67.0,Male,Hypertension,3,1,84160.30375,7,High Risk
+8921,68.0,Male,Copd,3,2,84106.205,7,High Risk
+1539,62.0,Male,Ckd,4,3,84018.70375,7,High Risk
+1988,61.0,Female,Ckd,4,1,83859.10875,7,High Risk
+10304,77.0,Female,Copd,3,2,83617.95,7,High Risk
+7530,80.0,Female,Copd,5,4,83592.04000000001,7,High Risk
+4022,60.0,Male,Heart Failure,3,2,83373.0,7,High Risk
+7777,64.0,Male,Copd,4,1,83300.93375000001,7,High Risk
+4892,70.0,Male,Asthma,3,3,83156.54375,7,High Risk
+11531,76.0,Female,Hypertension,4,3,83145.83499999999,7,High Risk
+9920,84.0,Female,Ckd,4,2,82734.71875,7,High Risk
+8954,67.0,Male,Ckd,4,3,82726.01,7,High Risk
+10880,66.0,Female,Hypertension,4,3,82711.785,7,High Risk
+11247,64.0,Female,Diabetes,3,0,82517.78375,7,High Risk
+5934,72.0,Female,Copd,5,4,82418.33,7,High Risk
+11065,61.0,Male,Hypertension,3,2,82384.4,7,High Risk
+497,68.0,Female,Diabetes,4,2,82376.32999999999,7,High Risk
+4009,60.0,Female,Hypertension,4,2,82307.67875,7,High Risk
+7678,60.0,Male,Hypertension,3,0,82101.78375,7,High Risk
+8484,73.0,Male,Diabetes,4,2,82070.02375000001,7,High Risk
+8331,74.0,Male,Diabetes,5,4,82030.58499999999,7,High Risk
+9408,96.0,Male,Copd,4,4,82003.36375,7,High Risk
+5389,67.0,Female,Hypertension,3,2,81577.52875,7,High Risk
+11877,73.0,Male,Hypertension,4,2,81485.155,7,High Risk
+2197,63.0,Female,Hypertension,3,3,81453.78375,7,High Risk
+9334,79.0,Female,Diabetes,4,4,81155.14875000001,7,High Risk
+2196,81.0,Male,Heart Failure,4,4,81109.65,7,High Risk
+5161,69.0,Female,Hypertension,3,3,80260.86,7,High Risk
+11785,68.0,Female,Ckd,3,1,79389.6,7,High Risk
+297,64.0,Female,Hypertension,4,4,79257.34875,7,High Risk
+4762,64.0,Female,Hypertension,4,2,79065.435,7,High Risk
+1085,61.0,Male,Diabetes,3,1,79025.92,7,High Risk
+8955,69.0,unknown,Diabetes,3,0,79024.13,7,High Risk
+11858,83.0,Female,Heart Failure,3,3,78993.21875,7,High Risk
+5384,62.0,Female,Hypertension,3,2,78861.56,7,High Risk
+11476,62.0,Male,Hypertension,3,1,78422.03375,7,High Risk
+978,71.0,other,Diabetes,5,5,78076.54000000001,7,High Risk
+5403,64.0,Male,Heart Failure,3,3,77857.62875,7,High Risk
+11179,71.0,Male,Hypertension,3,2,77853.77875,7,High Risk
+11190,74.0,Male,Hypertension,5,3,77733.255,7,High Risk
+6613,69.0,Female,Heart Failure,3,1,77577.965,7,High Risk
+5412,69.0,Male,Heart Failure,3,2,77335.69875000001,7,High Risk
+7893,67.0,Male,Hypertension,4,2,77115.625,7,High Risk
+11957,68.0,Female,Hypertension,4,2,77055.69375,7,High Risk
+4871,72.0,Female,Diabetes,5,4,77006.61,7,High Risk
+176,72.0,Male,Copd,3,2,76352.04875,7,High Risk
+5425,86.0,Male,Diabetes,4,4,75953.705,7,High Risk
+11602,78.0,Female,Asthma,6,3,75914.87875,7,High Risk
+6476,64.0,Female,Hypertension,3,3,75811.395,7,High Risk
+11829,74.0,Male,Hypertension,3,2,75399.88500000001,7,High Risk
+9986,75.0,Female,Asthma,3,2,75146.595,7,High Risk
+11380,60.0,Female,Diabetes,4,4,74798.56,7,High Risk
+9571,61.0,Female,Hypertension,4,3,74646.04875,7,High Risk
+7180,84.0,Male,Copd,4,3,74556.48999999999,7,High Risk
+11709,74.0,Female,Heart Failure,4,4,74525.06,7,High Risk
+712,69.0,Male,Hypertension,4,4,74089.185,7,High Risk
+6047,60.0,Female,Diabetes,3,3,73830.4075,7,High Risk
+11899,77.0,Male,Diabetes,3,2,73254.77,7,High Risk
+115,66.0,Female,Asthma,4,4,72840.255,7,High Risk
+7576,61.0,Female,Hypertension,5,3,72435.645,7,High Risk
+11986,72.0,Male,Ckd,4,4,71956.5,7,High Risk
+3317,68.0,Female,Cancer,8,5,71846.625,7,High Risk
+6633,65.0,Female,Hypertension,3,2,71711.04,7,High Risk
+8590,70.0,Female,Heart Failure,3,0,71391.805,7,High Risk
+11915,69.0,Female,Hypertension,3,1,71214.325,7,High Risk
+3645,69.0,Male,Hypertension,4,1,71061.25875,7,High Risk
+9412,83.0,Female,Heart Failure,4,1,70874.945,7,High Risk
+8850,88.0,Male,Heart Failure,3,3,70840.02875000001,7,High Risk
+2118,96.0,Male,Diabetes,4,4,70699.0,7,High Risk
+10387,86.0,Female,Hypertension,4,2,70533.985,7,High Risk
+11790,69.0,Male,Copd,3,1,70387.73875,7,High Risk
+11828,74.0,Female,Ckd,3,3,70205.93000000001,7,High Risk
+11902,73.0,Male,Diabetes,3,2,69746.38875,7,High Risk
+59,74.0,Female,Copd,4,3,69672.015,7,High Risk
+188,72.0,Female,Hypertension,3,2,69269.66875,7,High Risk
+23,63.0,Female,Diabetes,3,2,68984.93875,7,High Risk
+7894,74.0,Female,Diabetes,3,0,68963.16875,7,High Risk
+4371,60.0,Female,Hypertension,3,1,68957.16375,7,High Risk
+8260,70.0,Female,Ckd,3,1,68885.975,7,High Risk
+10207,64.0,Male,Diabetes,4,1,68551.25,7,High Risk
+10671,64.0,Male,Diabetes,4,3,68525.61499999999,7,High Risk
+10758,71.0,Female,Hypertension,4,3,68375.1,7,High Risk
+7751,65.0,Female,Diabetes,3,3,68135.34375,7,High Risk
+845,63.0,Female,Diabetes,3,2,67941.18375000001,7,High Risk
+11668,87.0,Female,Hypertension,6,6,67779.925,7,High Risk
+10853,73.0,Male,Diabetes,3,1,67748.06,7,High Risk
+10978,69.0,Female,Heart Failure,5,5,67736.16,7,High Risk
+11641,82.0,Female,Cancer,3,3,67606.57875,7,High Risk
+10915,73.0,Male,Copd,3,3,67509.82875,7,High Risk
+10492,69.0,Male,Heart Failure,3,2,67036.785,7,High Risk
+11526,75.0,Female,Diabetes,4,4,66972.51,7,High Risk
+11302,60.0,Male,Hypertension,4,1,66783.535,7,High Risk
+1876,65.0,Male,Hypertension,3,2,66382.85999999999,7,High Risk
+7215,75.0,Female,Hypertension,4,4,66215.82,7,High Risk
+11093,76.0,Female,Asthma,3,0,66156.94375,7,High Risk
+2138,79.0,Female,Copd,4,2,66055.64,7,High Risk
+2856,60.0,Male,Asthma,4,4,65711.52375000001,7,High Risk
+11538,78.0,Female,Asthma,3,3,65444.693750000006,7,High Risk
+2433,68.0,Male,Asthma,5,2,65240.564999999995,7,High Risk
+11922,67.0,Male,Hypertension,3,3,64986.52,7,High Risk
+11962,79.0,Male,Asthma,3,3,64955.435,7,High Risk
+11236,62.0,Male,Copd,4,2,64798.479999999996,7,High Risk
+9532,60.0,Female,Diabetes,3,2,64506.235,7,High Risk
+4462,62.0,Male,Heart Failure,3,3,64110.88500000001,7,High Risk
+11964,84.0,Female,Hypertension,3,1,63987.238750000004,7,High Risk
+5809,72.0,Female,Copd,4,1,63581.61875,7,High Risk
+10378,66.0,Female,Heart Failure,3,3,63520.568750000006,7,High Risk
+9027,61.0,Female,Cancer,3,2,63012.86875000001,7,High Risk
+6219,61.0,Female,Diabetes,3,0,62632.130000000005,7,High Risk
+10539,63.0,Male,Hypertension,3,3,61721.318750000006,7,High Risk
+11667,65.0,Female,Cancer,3,1,61350.79875,7,High Risk
+459,76.0,Female,Heart Failure,6,3,61212.625,7,High Risk
+3119,71.0,Male,Hypertension,3,1,61198.47,7,High Risk
+9439,63.0,Female,Ckd,3,3,61125.494999999995,7,High Risk
+7114,66.0,Female,Hypertension,3,2,60606.39875000001,7,High Risk
+380,86.0,Male,Heart Failure,3,2,60532.34875,7,High Risk
+7892,61.0,Female,Hypertension,3,1,60262.149999999994,7,High Risk
+1597,66.0,Male,Hypertension,3,3,60182.23499999999,7,High Risk
+5526,67.0,Male,Heart Failure,3,2,59924.46875000001,7,High Risk
+10947,72.0,Female,Asthma,3,2,59875.958750000005,7,High Risk
+3464,63.0,Male,Asthma,4,3,59552.83,7,High Risk
+10450,73.0,Male,Hypertension,3,2,59351.009999999995,7,High Risk
+804,67.0,Male,Copd,3,2,59271.66,7,High Risk
+7682,75.0,Male,Diabetes,3,1,59059.115,7,High Risk
+6980,87.0,Male,Hypertension,4,3,58876.64499999999,7,High Risk
+10107,62.0,Female,Asthma,5,2,58773.815,7,High Risk
+4160,68.0,Male,Hypertension,4,4,58583.38,7,High Risk
+479,76.0,Female,Asthma,3,2,58442.67375,7,High Risk
+11514,61.0,Male,Copd,3,0,58398.40875,7,High Risk
+5953,76.0,Male,Diabetes,3,2,58304.340000000004,7,High Risk
+8105,64.0,Male,Hypertension,3,3,58272.315,7,High Risk
+3773,71.0,Female,Diabetes,3,2,58128.38,7,High Risk
+7073,82.0,Female,Hypertension,3,3,57846.67875000001,7,High Risk
+11529,77.0,Male,Heart Failure,3,3,57809.92875000001,7,High Risk
+10409,65.0,Female,Hypertension,3,1,57798.08,7,High Risk
+6314,76.0,Male,Cancer,3,1,57614.600000000006,7,High Risk
+972,65.0,Female,Ckd,3,0,57540.950000000004,7,High Risk
+11303,69.0,Male,Hypertension,3,1,56835.11,7,High Risk
+6666,61.0,Female,Heart Failure,3,2,56497.17,7,High Risk
+49,74.0,Male,Asthma,3,3,56460.020000000004,7,High Risk
+8881,70.0,Female,Diabetes,3,1,56253.744999999995,7,High Risk
+11980,65.0,Female,Hypertension,3,2,56205.76875,7,High Risk
+7221,76.0,Female,Hypertension,3,1,56157.92,7,High Risk
+1322,61.0,Male,Hypertension,3,2,55929.340000000004,7,High Risk
+6495,63.0,Female,Ckd,3,3,55777.02,7,High Risk
+11987,73.0,Female,Diabetes,5,4,55581.41,7,High Risk
+11848,75.0,Female,Diabetes,3,1,55411.045000000006,7,High Risk
+9036,67.0,Male,Ckd,3,1,55128.47875000001,7,High Risk
+1663,77.0,Female,Hypertension,3,2,54766.96000000001,7,High Risk
+1441,83.0,Male,Hypertension,3,0,54481.86875,7,High Risk
+1631,61.0,Female,Cancer,3,1,54061.568750000006,7,High Risk
+11951,72.0,Female,Diabetes,3,3,53498.10375,7,High Risk
+1940,63.0,Female,Ckd,3,2,53283.64,7,High Risk
+5880,74.0,Female,Ckd,4,3,52414.705,7,High Risk
+3762,61.0,Female,Ckd,4,3,51847.19875,7,High Risk
+6110,78.0,Male,Hypertension,4,2,51344.745,7,High Risk
+11995,77.0,Male,Ckd,3,1,51216.098750000005,7,High Risk
+3826,70.0,Female,Hypertension,3,2,50816.64,7,High Risk
+10433,64.0,Female,Diabetes,3,2,50641.43,7,High Risk
+1213,61.0,Male,Heart Failure,3,2,50070.619999999995,7,High Risk
+11046,69.0,Female,Heart Failure,3,1,49139.865000000005,7,High Risk
+11718,67.0,Male,Heart Failure,4,3,48858.869999999995,7,High Risk
+8900,75.0,Male,Diabetes,3,2,48382.11,7,High Risk
+6071,91.0,Female,Heart Failure,3,2,48274.42,7,High Risk
+1880,63.0,Male,Hypertension,3,2,47975.52,7,High Risk
+4890,60.0,Female,Asthma,4,2,46825.96,7,High Risk
+5839,66.0,Female,Hypertension,4,3,46620.53,7,High Risk
+8839,65.0,Male,Hypertension,3,2,46451.42375,7,High Risk
+3551,76.0,Female,Cancer,3,0,46150.130000000005,7,High Risk
+11536,61.0,Male,Hypertension,3,0,45151.94875,7,High Risk
+11983,81.0,other,Hypertension,4,2,44731.63,7,High Risk
+2595,72.0,Male,Hypertension,3,3,44707.96,7,High Risk
+2555,75.0,Female,Ckd,3,2,44557.015,7,High Risk
+10100,64.0,Female,Asthma,3,2,44229.9,7,High Risk
+9378,65.0,Male,Heart Failure,4,3,44144.674999999996,7,High Risk
+42,66.0,Male,Diabetes,3,1,44117.885,7,High Risk
+11767,66.0,Female,Heart Failure,3,2,43340.74,7,High Risk
+4155,74.0,Male,Heart Failure,3,3,43167.17,7,High Risk
+2815,87.0,Male,Copd,3,0,42743.345,7,High Risk
+4380,96.0,Female,Copd,3,3,42734.46,7,High Risk
+6483,81.0,Female,Heart Failure,4,1,42354.67875000001,7,High Risk
+1387,74.0,Male,Hypertension,4,2,42174.520000000004,7,High Risk
+8757,61.0,Male,Asthma,3,3,42098.6,7,High Risk
+5755,74.0,Female,Cancer,3,1,42049.50000000001,7,High Risk
+10390,64.0,Male,Hypertension,3,2,41537.735,7,High Risk
+1249,78.0,Male,Heart Failure,3,0,41117.37,7,High Risk
+7356,79.0,Female,Diabetes,3,2,40943.595,7,High Risk
+9114,63.0,Male,Hypertension,3,3,40625.125,7,High Risk
+11998,74.0,Male,Heart Failure,3,3,40055.02,7,High Risk
+6352,70.0,Female,Ckd,3,3,39676.909999999996,7,High Risk
+11780,71.0,Female,Copd,4,1,39323.19,7,High Risk
+9690,67.0,Male,Asthma,3,1,38829.695,7,High Risk
+4267,62.0,Female,Heart Failure,4,2,37833.53,7,High Risk
+11551,69.0,Female,Hypertension,3,1,37780.229999999996,7,High Risk
+11673,70.0,Female,Copd,3,2,37460.94500000001,7,High Risk
+9520,74.0,Female,Diabetes,4,2,37319.605,7,High Risk
+3530,60.0,Male,Hypertension,3,2,37247.64,7,High Risk
+11917,66.0,Male,Ckd,3,2,37209.744999999995,7,High Risk
+4387,61.0,Male,Hypertension,3,3,36988.89,7,High Risk
+1860,64.0,Female,Diabetes,3,3,34517.51,7,High Risk
+7492,61.0,Male,Hypertension,3,2,34466.335,7,High Risk
+9025,87.0,Female,Hypertension,3,1,33619.285,7,High Risk
+2246,67.0,Male,Diabetes,3,2,33129.28,7,High Risk
+6855,64.0,Male,Diabetes,3,1,32963.185,7,High Risk
+11636,76.0,Female,Ckd,3,2,31332.895000000004,7,High Risk
+5746,61.0,Male,Copd,3,2,29814.68,7,High Risk
+2607,66.0,Male,Ckd,3,3,29569.614999999998,7,High Risk
+11918,80.0,Female,Heart Failure,3,3,29015.39,7,High Risk
+10497,60.0,Male,Cancer,3,2,28737.454999999998,7,High Risk
+7047,64.0,Male,Hypertension,3,3,25875.300000000003,7,High Risk
+10352,64.0,Male,Copd,3,1,25701.42,7,High Risk
+5428,74.0,Male,Hypertension,3,2,24233.72,7,High Risk
+11164,61.0,Male,Hypertension,3,1,23361.3,7,High Risk
+11984,82.0,Male,Ckd,3,0,22063.225,7,High Risk
+5983,61.0,Male,Diabetes,3,3,21704.879999999997,7,High Risk
+3800,78.0,Male,Hypertension,3,2,21464.34,7,High Risk
+4142,69.0,Male,Hypertension,3,2,21225.155,7,High Risk
+10286,65.0,Female,Asthma,4,2,18317.670000000002,7,High Risk
+4678,71.0,Male,Hypertension,3,2,16846.55,7,High Risk
+1831,63.0,Female,Copd,3,2,16197.619999999999,7,High Risk
+7330,61.0,Female,Asthma,3,1,12981.64,7,High Risk
+1917,53.0,Female,Cancer,10,6,514339.79500000004,6,High Risk
+10459,25.0,Female,Hypertension,9,5,400974.06625,6,High Risk
+4797,31.0,Female,Diabetes,6,1,378990.07875,6,High Risk
+9647,31.0,Female,Heart Failure,8,3,345892.19500000007,6,High Risk
+1418,36.0,Female,Ckd,7,4,334166.385,6,High Risk
+5454,41.0,Female,Heart Failure,7,2,332280.85625,6,High Risk
+2687,50.0,Female,Hypertension,4,2,330494.73500000004,6,High Risk
+8813,62.0,Female,Diabetes,5,2,320237.98875,6,High Risk
+1762,48.0,Female,Hypertension,5,2,315541.86375,6,High Risk
+9006,53.0,Male,Hypertension,9,3,315039.56,6,High Risk
+6408,59.0,Male,Diabetes,9,4,314462.0875,6,High Risk
+3812,29.0,Male,Diabetes,5,0,311964.48500000004,6,High Risk
+307,54.0,Male,Ckd,6,5,311404.94625000004,6,High Risk
+6667,17.0,Male,Hypertension,9,1,307179.85500000004,6,High Risk
+10320,51.0,Male,Diabetes,5,1,300509.39625,6,High Risk
+3153,59.0,Female,Diabetes,9,4,298111.1875,6,High Risk
+9910,43.0,Male,Diabetes,7,2,294781.80125,6,High Risk
+1122,42.0,Female,Diabetes,5,1,292077.70875000005,6,High Risk
+9076,37.0,Male,Hypertension,5,0,289614.3725,6,High Risk
+7624,67.0,Male,Unknown,6,2,288934.55625,6,High Risk
+3764,81.0,Female,Unknown,6,4,288268.0125,6,High Risk
+9325,12.0,Female,Ckd,6,3,286590.91125,6,High Risk
+11084,30.0,Female,Diabetes,6,3,283380.12125,6,High Risk
+6253,24.0,Female,Asthma,6,2,282057.2925,6,High Risk
+7274,27.0,Female,Diabetes,7,0,280114.69375000003,6,High Risk
+179,53.0,Male,Hypertension,6,2,280050.78875,6,High Risk
+5846,47.0,Male,Copd,7,0,278738.13125000003,6,High Risk
+10055,38.0,Female,Asthma,4,0,277779.6175,6,High Risk
+5986,76.0,Female,Diabetes,4,2,274049.40375,6,High Risk
+10075,44.0,Male,Diabetes,5,2,270735.96375,6,High Risk
+8327,31.0,Male,Diabetes,3,2,269745.6525,6,High Risk
+7901,55.0,Female,Hypertension,7,6,269207.80374999996,6,High Risk
+3895,56.0,Female,Hypertension,6,4,268030.20999999996,6,High Risk
+9800,39.0,Male,Diabetes,6,3,267959.2125,6,High Risk
+8968,59.0,Female,Copd,7,5,266877.8425,6,High Risk
+7498,54.0,Female,Diabetes,5,5,265814.82125000004,6,High Risk
+10659,44.0,Female,Copd,7,3,263492.94625000004,6,High Risk
+6675,29.0,other,Heart Failure,5,1,263386.37875000003,6,High Risk
+5800,47.0,Female,Ckd,6,3,262120.83500000002,6,High Risk
+6257,75.0,Female,Unknown,4,2,260505.81500000003,6,High Risk
+10033,35.0,Male,Diabetes,4,3,259456.96500000003,6,High Risk
+11977,58.0,Female,Diabetes,5,1,259104.02250000002,6,High Risk
+654,61.0,Male,Unknown,6,1,256277.02750000003,6,High Risk
+4636,62.0,Female,Unknown,5,1,256027.16875,6,High Risk
+7253,40.0,Male,Hypertension,7,5,255996.92375000002,6,High Risk
+4370,44.0,Female,Hypertension,6,2,255842.8375,6,High Risk
+1433,26.0,Male,Diabetes,3,2,255390.00625,6,High Risk
+5605,39.0,Female,Ckd,6,4,253440.4275,6,High Risk
+5967,30.0,Male,Hypertension,7,1,253183.98875000002,6,High Risk
+7940,50.0,Male,Asthma,8,4,253068.7475,6,High Risk
+644,66.0,Female,Hypertension,4,2,252981.58750000002,6,High Risk
+7639,46.0,Female,Ckd,6,2,252597.8125,6,High Risk
+11217,55.0,Female,Copd,3,0,251359.13,6,High Risk
+6921,55.0,Female,Ckd,5,3,251012.14625000002,6,High Risk
+7704,47.0,Male,Ckd,4,3,250111.4325,6,High Risk
+4423,42.0,Female,Asthma,9,5,248476.11125000002,6,High Risk
+2523,53.0,Female,Diabetes,5,4,248000.11250000002,6,High Risk
+8098,42.0,Female,Copd,4,1,243506.48625000002,6,High Risk
+1271,49.0,Female,Heart Failure,7,4,242267.2275,6,High Risk
+1688,63.0,Female,Unknown,4,1,242153.825,6,High Risk
+5663,15.0,Male,Copd,4,2,242010.33750000002,6,High Risk
+1543,55.0,Female,Diabetes,5,2,241797.77999999997,6,High Risk
+4126,41.0,Male,Diabetes,5,4,241536.97500000003,6,High Risk
+4066,45.0,Male,Asthma,6,3,241057.825,6,High Risk
+1140,37.0,Male,Diabetes,4,4,240057.39,6,High Risk
+9934,83.0,Female,Heart Failure,4,4,239352.30000000002,6,High Risk
+10193,54.0,Female,Hypertension,5,1,239169.22875,6,High Risk
+4995,59.0,Male,Asthma,7,4,238592.09250000003,6,High Risk
+7279,49.0,Female,Asthma,6,4,237585.57625000004,6,High Risk
+1194,0.0,Female,Ckd,8,5,236174.15875,6,High Risk
+9392,39.0,Female,Diabetes,7,4,235870.51750000002,6,High Risk
+6716,48.0,Male,Heart Failure,5,2,233628.91500000004,6,High Risk
+687,38.0,Male,Copd,6,3,233438.6925,6,High Risk
+8084,50.0,Female,Heart Failure,6,4,232966.77250000002,6,High Risk
+942,40.0,Male,Asthma,6,1,232182.01750000002,6,High Risk
+701,32.0,Female,Copd,3,3,231911.1875,6,High Risk
+5697,16.0,Male,Diabetes,5,1,230195.54125,6,High Risk
+5131,76.0,Male,Diabetes,5,3,229459.4625,6,High Risk
+6270,46.0,Male,Hypertension,6,1,229331.31875,6,High Risk
+5262,61.0,Male,Unknown,5,3,229017.43875,6,High Risk
+7286,64.0,Male,Hypertension,4,3,227601.83375,6,High Risk
+8650,37.0,Female,Cancer,8,3,227532.8875,6,High Risk
+10878,36.0,Male,Hypertension,6,5,226411.43000000002,6,High Risk
+10323,54.0,Female,Heart Failure,4,3,226234.28500000003,6,High Risk
+4021,13.0,Female,Asthma,6,2,225790.30625000002,6,High Risk
+1568,66.0,Male,Unknown,4,2,225484.35000000003,6,High Risk
+10903,31.0,other,Cancer,4,1,225257.63875,6,High Risk
+11152,33.0,Male,Diabetes,6,2,223782.015,6,High Risk
+8826,41.0,Female,Hypertension,5,3,223740.41250000003,6,High Risk
+8830,55.0,Female,Cancer,8,3,222807.31875,6,High Risk
+4576,67.0,Male,Asthma,6,3,221978.6075,6,High Risk
+7379,51.0,Female,Heart Failure,5,2,221284.97125000003,6,High Risk
+1621,51.0,Male,Asthma,5,2,220726.24625000003,6,High Risk
+7775,56.0,Male,Hypertension,4,3,220568.35375,6,High Risk
+4584,49.0,Male,Copd,9,7,220440.46875,6,High Risk
+3427,49.0,Male,Asthma,5,2,220274.89750000002,6,High Risk
+10886,37.0,Female,Hypertension,4,2,220230.17,6,High Risk
+5099,20.0,Female,Hypertension,4,1,220108.92625000002,6,High Risk
+11105,42.0,Male,Asthma,5,3,219966.8075,6,High Risk
+10504,42.0,Male,Hypertension,3,1,219126.89500000002,6,High Risk
+7832,34.0,Male,Hypertension,6,1,218952.6075,6,High Risk
+9693,56.0,Female,Hypertension,3,2,218595.15750000003,6,High Risk
+2976,40.0,Female,Ckd,4,2,217368.4875,6,High Risk
+418,55.0,Female,Hypertension,6,3,217339.51750000002,6,High Risk
+7562,45.0,Male,Heart Failure,8,7,216112.6275,6,High Risk
+5743,42.0,Female,Diabetes,5,2,215355.04499999998,6,High Risk
+4986,24.0,Male,Hypertension,3,1,214859.445,6,High Risk
+9850,35.0,Male,Hypertension,4,2,214328.10375,6,High Risk
+7863,75.0,Male,Unknown,4,3,213555.78125000003,6,High Risk
+8574,56.0,Male,Asthma,7,5,213098.71250000002,6,High Risk
+404,49.0,Male,Heart Failure,5,2,211755.37375,6,High Risk
+6412,47.0,Female,Ckd,4,4,211367.19625,6,High Risk
+10242,70.0,Male,Asthma,5,3,211211.21000000002,6,High Risk
+1206,62.0,Female,Heart Failure,5,4,211139.41625000004,6,High Risk
+10685,38.0,Male,Asthma,5,1,210774.61875000002,6,High Risk
+6123,64.0,Male,Unknown,3,0,210690.605,6,High Risk
+2553,63.0,Male,Unknown,3,1,210344.22999999998,6,High Risk
+8860,73.0,Female,Diabetes,5,3,210116.84999999998,6,High Risk
+3514,40.0,Male,Ckd,6,1,209977.0025,6,High Risk
+4743,35.0,Female,Diabetes,6,2,209525.4525,6,High Risk
+9839,54.0,Male,Ckd,5,3,209202.1375,6,High Risk
+9133,51.0,Male,Copd,6,2,208717.7875,6,High Risk
+3563,64.0,Male,Ckd,3,3,208717.43250000002,6,High Risk
+6519,33.0,Male,Diabetes,4,2,208279.50625000003,6,High Risk
+1555,22.0,Male,Hypertension,4,1,207799.92750000002,6,High Risk
+11940,60.0,Female,Diabetes,4,2,207318.59,6,High Risk
+1965,48.0,Female,Asthma,5,3,206224.9875,6,High Risk
+4894,48.0,Female,Ckd,6,3,205333.05125000002,6,High Risk
+4617,24.0,Female,Hypertension,5,1,204623.75875,6,High Risk
+1801,52.0,Female,Asthma,4,1,204306.87625,6,High Risk
+2566,68.0,Female,Asthma,5,4,203912.59749999997,6,High Risk
+5882,53.0,Female,Ckd,7,4,203188.8275,6,High Risk
+10371,26.0,Female,Hypertension,3,0,203091.86375000002,6,High Risk
+3277,30.0,Female,Diabetes,7,1,202583.5725,6,High Risk
+1185,56.0,Male,Asthma,4,3,202579.55625000002,6,High Risk
+4821,49.0,Male,Ckd,5,1,201781.32625,6,High Risk
+2286,39.0,Female,Diabetes,6,4,201524.48875000002,6,High Risk
+8151,30.0,Female,Asthma,5,1,201435.02625,6,High Risk
+10314,53.0,Male,Hypertension,7,3,201003.69,6,High Risk
+8266,16.0,Male,Asthma,5,1,200317.56125000003,6,High Risk
+1384,52.0,Male,Copd,5,0,199345.47375,6,High Risk
+10574,57.0,Male,Cancer,5,2,199235.2925,6,High Risk
+1547,47.0,Female,Hypertension,4,3,197956.9625,6,High Risk
+3498,46.0,Male,Heart Failure,3,2,197267.6825,6,High Risk
+3744,66.0,Female,Ckd,3,3,196772.82875000002,6,High Risk
+11101,53.0,Female,Copd,3,0,196386.9575,6,High Risk
+3138,46.0,Female,Diabetes,4,3,196205.1375,6,High Risk
+5040,50.0,Male,Hypertension,4,1,195832.23625000002,6,High Risk
+4379,50.0,Female,Ckd,5,3,195763.77250000002,6,High Risk
+7257,42.0,Female,Copd,9,5,195642.4525,6,High Risk
+6555,88.0,Female,Diabetes,6,5,195166.60875,6,High Risk
+10336,41.0,Male,Cancer,7,3,194733.04875000002,6,High Risk
+3689,62.0,Female,Asthma,4,2,193443.82374999998,6,High Risk
+5350,73.0,Male,Hypertension,3,2,193185.64750000002,6,High Risk
+668,36.0,Male,Hypertension,3,1,193011.11375000002,6,High Risk
+4852,54.0,Male,Hypertension,5,4,192856.85375,6,High Risk
+2057,43.0,Female,Diabetes,8,4,192613.72375,6,High Risk
+634,57.0,Female,Diabetes,3,0,192290.1325,6,High Risk
+2919,38.0,Female,Hypertension,3,3,191971.32875000002,6,High Risk
+5123,46.0,Male,Ckd,4,1,191929.355,6,High Risk
+5910,48.0,Female,Hypertension,6,5,191359.61375,6,High Risk
+3695,48.0,Male,Hypertension,6,2,191095.67125,6,High Risk
+2315,46.0,Male,Diabetes,5,1,190888.8075,6,High Risk
+3962,59.0,Male,Asthma,7,3,190252.74625,6,High Risk
+4799,36.0,Male,Hypertension,4,2,189941.92500000005,6,High Risk
+8723,43.0,Male,Cancer,5,5,189626.14750000002,6,High Risk
+7156,49.0,Female,Diabetes,5,3,189263.46125000002,6,High Risk
+9762,79.0,Female,Diabetes,4,3,189212.01375,6,High Risk
+1894,57.0,Male,Heart Failure,5,4,188986.25125000003,6,High Risk
+7178,83.0,Female,Copd,3,3,188136.855,6,High Risk
+10077,34.0,Male,Hypertension,8,3,187315.61875,6,High Risk
+5036,33.0,Female,Diabetes,4,2,186190.85875,6,High Risk
+9853,68.0,Female,Unknown,4,2,186072.34250000003,6,High Risk
+109,57.0,Male,Diabetes,4,1,186016.85875,6,High Risk
+9038,51.0,Female,Diabetes,4,3,185628.13625,6,High Risk
+11736,78.0,Female,Unknown,4,2,185422.87875000003,6,High Risk
+4749,67.0,Male,Diabetes,3,1,184937.9125,6,High Risk
+10949,56.0,Female,Diabetes,5,3,184657.04499999998,6,High Risk
+6210,83.0,Female,Unknown,4,1,184159.72625,6,High Risk
+9396,54.0,Female,Heart Failure,5,3,183185.20125,6,High Risk
+5177,57.0,Female,Diabetes,5,2,182119.19,6,High Risk
+3429,56.0,Male,Heart Failure,5,3,181822.7175,6,High Risk
+10626,29.0,Male,Hypertension,7,2,180792.1525,6,High Risk
+2575,55.0,Female,Hypertension,5,3,180629.42250000002,6,High Risk
+170,36.0,Female,Hypertension,5,0,180480.36375000002,6,High Risk
+4158,57.0,Female,Diabetes,4,3,179866.96375,6,High Risk
+4248,27.0,Female,Cancer,4,1,179769.48625000002,6,High Risk
+7079,27.0,Female,Hypertension,5,1,178889.57499999998,6,High Risk
+4921,46.0,Female,Ckd,5,2,178884.83875,6,High Risk
+7000,30.0,Female,Hypertension,3,2,178635.27000000002,6,High Risk
+2013,58.0,Female,Hypertension,4,4,177960.82,6,High Risk
+9092,42.0,Male,Diabetes,5,3,176413.48,6,High Risk
+11811,59.0,Male,Hypertension,4,1,176040.70750000002,6,High Risk
+573,28.0,Male,Ckd,5,1,175967.1375,6,High Risk
+7248,45.0,Female,Diabetes,4,3,175612.33750000002,6,High Risk
+8890,41.0,Female,Diabetes,4,2,175536.0675,6,High Risk
+5972,44.0,Male,Ckd,5,3,175339.61750000002,6,High Risk
+5801,52.0,Female,Hypertension,6,3,175030.54625,6,High Risk
+6223,61.0,Male,Unknown,6,2,175024.96875,6,High Risk
+11240,35.0,Male,Hypertension,5,1,174055.52375,6,High Risk
+9395,58.0,Male,Hypertension,3,0,173354.04875000002,6,High Risk
+5954,32.0,Female,Diabetes,4,2,172700.17625,6,High Risk
+1559,56.0,Male,Asthma,3,1,172446.60125,6,High Risk
+8439,68.0,Female,Diabetes,4,3,172137.90750000003,6,High Risk
+1869,41.0,Male,Hypertension,3,0,171890.69625,6,High Risk
+9912,39.0,Male,Diabetes,4,2,171624.955,6,High Risk
+11840,76.0,Female,Unknown,4,3,171532.73750000002,6,High Risk
+11375,68.0,Male,Cancer,3,1,170611.95750000002,6,High Risk
+5871,66.0,Female,Diabetes,3,1,170571.1,6,High Risk
+9799,44.0,Male,Heart Failure,3,2,170334.93,6,High Risk
+1773,21.0,Female,Diabetes,7,2,170238.15250000003,6,High Risk
+7929,51.0,Female,Hypertension,5,1,169464.14750000002,6,High Risk
+6830,37.0,Female,Hypertension,4,2,169057.69874999998,6,High Risk
+9279,44.0,Male,Cancer,4,3,169006.17250000002,6,High Risk
+11135,45.0,Female,Diabetes,5,3,168846.74625000003,6,High Risk
+7475,16.0,Male,Asthma,4,0,168775.205,6,High Risk
+8193,41.0,Female,Hypertension,6,4,168345.00750000004,6,High Risk
+1410,43.0,Male,Heart Failure,5,1,167918.49375,6,High Risk
+8485,58.0,Female,Hypertension,3,2,167873.2775,6,High Risk
+7033,57.0,Female,Copd,6,2,166988.9975,6,High Risk
+368,48.0,Female,Hypertension,4,1,166899.19875,6,High Risk
+4857,34.0,Female,Hypertension,4,0,166838.8625,6,High Risk
+6275,65.0,Female,Diabetes,4,3,166712.66874999998,6,High Risk
+1657,51.0,unknown,Hypertension,3,2,166597.17250000002,6,High Risk
+11231,41.0,Female,Hypertension,5,2,165975.12,6,High Risk
+2889,60.0,Male,Diabetes,4,2,164648.81875,6,High Risk
+9770,63.0,Female,Hypertension,5,3,164643.04750000002,6,High Risk
+5799,37.0,Female,Hypertension,6,3,164345.73875,6,High Risk
+2532,47.0,Male,Diabetes,3,0,163643.2025,6,High Risk
+2842,63.0,Male,Unknown,6,3,162882.14875000002,6,High Risk
+8518,31.0,Female,Diabetes,3,3,162646.32625,6,High Risk
+3471,56.0,Female,Cancer,7,4,162557.07375,6,High Risk
+6131,33.0,Male,Heart Failure,5,3,162492.70875000002,6,High Risk
+7347,42.0,Female,Hypertension,7,5,161928.97999999998,6,High Risk
+10332,25.0,Female,Heart Failure,5,2,161843.37625000003,6,High Risk
+7013,49.0,Male,Diabetes,5,3,161779.50875,6,High Risk
+9372,41.0,Female,Asthma,7,4,161403.61875,6,High Risk
+1332,58.0,Female,Ckd,5,3,160590.86250000002,6,High Risk
+5724,27.0,Female,Diabetes,3,1,160390.9825,6,High Risk
+5284,60.0,Female,Ckd,5,3,160163.8475,6,High Risk
+5593,43.0,Male,Hypertension,4,3,160053.20875,6,High Risk
+3820,69.0,Male,Unknown,4,2,159794.48750000002,6,High Risk
+3074,47.0,Female,Ckd,4,2,159155.99375,6,High Risk
+11713,77.0,Female,Copd,2,1,159055.68875,6,High Risk
+10780,13.0,Female,Cancer,4,1,159024.81625000003,6,High Risk
+11670,62.0,Female,Copd,3,1,158812.7525,6,High Risk
+8864,54.0,Male,Diabetes,4,3,158407.4875,6,High Risk
+710,18.0,Female,Cancer,6,3,158406.2025,6,High Risk
+261,51.0,Male,Ckd,4,1,158068.1175,6,High Risk
+9819,56.0,Male,Copd,5,3,158046.31375,6,High Risk
+11277,45.0,Female,Hypertension,5,4,157987.19875,6,High Risk
+9963,64.0,Male,Cancer,4,2,157828.00874999998,6,High Risk
+10268,62.0,Female,Unknown,4,2,157705.47375,6,High Risk
+2526,30.0,Female,Diabetes,4,3,157524.56375000003,6,High Risk
+11478,35.0,Male,Ckd,4,3,157412.92125,6,High Risk
+11963,59.0,Female,Heart Failure,3,1,156702.76750000002,6,High Risk
+5978,7.0,Male,Cancer,3,0,156458.22625,6,High Risk
+5556,43.0,Female,Diabetes,4,0,156182.6875,6,High Risk
+7209,51.0,Male,Asthma,6,4,156068.17750000002,6,High Risk
+3011,51.0,Male,Diabetes,3,2,155800.2775,6,High Risk
+5761,39.0,Male,Copd,4,2,155222.175,6,High Risk
+1248,51.0,Male,Hypertension,6,3,154423.67750000002,6,High Risk
+256,59.0,Male,Diabetes,6,3,154047.70375000002,6,High Risk
+8225,56.0,Male,Hypertension,5,4,154017.08750000002,6,High Risk
+2761,47.0,Female,Heart Failure,5,3,154013.6675,6,High Risk
+11499,44.0,Female,Ckd,4,2,153915.5325,6,High Risk
+5698,58.0,Male,Asthma,3,1,153599.00375,6,High Risk
+10182,50.0,Female,Copd,3,1,153033.91625,6,High Risk
+1148,32.0,Male,Ckd,4,2,152808.50875,6,High Risk
+10082,38.0,Male,Hypertension,5,2,152703.06875,6,High Risk
+1963,55.0,Male,Hypertension,5,2,152025.24,6,High Risk
+1428,56.0,Male,Heart Failure,5,4,151978.45,6,High Risk
+10056,43.0,Male,Asthma,6,1,151916.8175,6,High Risk
+4665,33.0,Male,Cancer,6,3,151895.09250000003,6,High Risk
+9704,43.0,Female,Diabetes,4,4,151589.1875,6,High Risk
+8313,59.0,Female,Diabetes,4,1,150964.52375,6,High Risk
+8584,72.0,Male,Asthma,6,3,150654.49750000003,6,High Risk
+11463,29.0,Female,Hypertension,3,2,150054.4975,6,High Risk
+9058,65.0,Male,Ckd,4,3,149967.04750000002,6,High Risk
+3629,46.0,Male,Hypertension,5,3,149079.71875,6,High Risk
+2251,39.0,Male,Hypertension,4,1,148949.3775,6,High Risk
+9190,47.0,Female,Hypertension,4,3,148906.85375,6,High Risk
+8387,63.0,Female,Unknown,6,3,148707.84,6,High Risk
+7193,75.0,Female,Heart Failure,4,1,148675.55875,6,High Risk
+11642,70.0,Male,Diabetes,5,3,148593.575,6,High Risk
+8745,64.0,Female,Hypertension,8,3,148463.55375,6,High Risk
+9209,41.0,Female,Hypertension,5,2,147859.075,6,High Risk
+11004,37.0,Female,Ckd,5,2,147520.27,6,High Risk
+8824,69.0,Female,Diabetes,3,2,147115.08250000002,6,High Risk
+1466,21.0,Female,Heart Failure,3,2,146798.155,6,High Risk
+7464,47.0,Female,Copd,5,3,146289.79750000002,6,High Risk
+5544,47.0,Male,Cancer,3,0,146079.36875000002,6,High Risk
+3470,85.0,Female,Unknown,4,2,145845.6325,6,High Risk
+921,56.0,Female,Copd,3,0,145474.35375,6,High Risk
+7471,96.0,Female,Diabetes,4,3,145283.36375000002,6,High Risk
+7268,61.0,Male,Unknown,3,2,145102.85,6,High Risk
+11912,71.0,Female,Heart Failure,3,2,144849.15,6,High Risk
+6447,47.0,Male,Diabetes,3,3,144785.37125000003,6,High Risk
+9165,82.0,Male,Heart Failure,3,3,144731.84125000003,6,High Risk
+8923,43.0,Female,Heart Failure,5,2,144705.1275,6,High Risk
+11045,60.0,Male,Unknown,3,2,144190.5625,6,High Risk
+10519,34.0,Female,Hypertension,5,2,144182.04875000002,6,High Risk
+750,74.0,Female,Unknown,3,0,144097.3225,6,High Risk
+5132,32.0,Female,Heart Failure,4,2,143830.6075,6,High Risk
+3640,14.0,Male,Asthma,3,1,143799.2825,6,High Risk
+7736,56.0,Female,Diabetes,4,3,143668.38874999998,6,High Risk
+811,33.0,Male,Hypertension,3,2,143258.3275,6,High Risk
+3546,29.0,Male,Cancer,3,1,143131.08875,6,High Risk
+11086,75.0,Female,Diabetes,3,3,143025.29125,6,High Risk
+7306,61.0,Female,Heart Failure,2,0,142997.2275,6,High Risk
+9829,55.0,Male,Heart Failure,4,1,142299.4975,6,High Risk
+6121,49.0,Female,Heart Failure,3,1,142262.48875,6,High Risk
+1143,14.0,Female,Copd,4,2,141652.40875,6,High Risk
+2135,35.0,Female,Ckd,7,2,141646.8375,6,High Risk
+7680,48.0,Male,Heart Failure,5,3,141525.21,6,High Risk
+4934,30.0,Female,Cancer,4,2,140888.70875,6,High Risk
+4499,23.0,Female,Diabetes,4,4,140678.72375,6,High Risk
+10496,61.0,Male,Hypertension,3,2,140298.59875,6,High Risk
+1118,41.0,Male,Asthma,6,2,140236.24875,6,High Risk
+5420,39.0,Female,Diabetes,3,2,140134.22,6,High Risk
+10694,45.0,Male,Heart Failure,6,3,140106.98375,6,High Risk
+556,73.0,Male,Diabetes,4,2,139613.45750000002,6,High Risk
+2150,51.0,Male,Heart Failure,4,3,139297.48375,6,High Risk
+7685,55.0,Male,Copd,4,3,138706.18875,6,High Risk
+2192,52.0,Female,Asthma,7,4,138399.51875,6,High Risk
+664,67.0,Female,Hypertension,3,1,137934.53875,6,High Risk
+691,27.0,Male,Hypertension,4,3,137735.62625000003,6,High Risk
+8662,46.0,Female,Hypertension,6,0,137713.00875,6,High Risk
+857,42.0,Female,Heart Failure,4,2,137307.97875,6,High Risk
+11714,72.0,unknown,Diabetes,5,2,135870.365,6,High Risk
+11797,78.0,Male,Unknown,5,4,135852.7925,6,High Risk
+10094,52.0,Male,Hypertension,4,1,135247.83750000002,6,High Risk
+10164,30.0,Male,Asthma,4,1,135163.74750000003,6,High Risk
+1048,55.0,Female,Asthma,3,1,135141.11375000002,6,High Risk
+650,29.0,Male,Asthma,3,2,135118.1975,6,High Risk
+1562,36.0,Female,Diabetes,3,2,134893.18875,6,High Risk
+1360,74.0,Female,Unknown,4,1,134819.0975,6,High Risk
+317,60.0,Male,Hypertension,3,0,134718.0775,6,High Risk
+9440,1.0,Male,Hypertension,4,1,134571.025,6,High Risk
+5647,38.0,Male,Diabetes,4,3,134552.64,6,High Risk
+7802,55.0,Female,Hypertension,4,3,134322.02500000002,6,High Risk
+797,55.0,Male,Copd,5,2,134176.33375000002,6,High Risk
+5863,29.0,Male,Asthma,4,1,133995.6275,6,High Risk
+5752,34.0,Male,Diabetes,4,1,133919.4975,6,High Risk
+1620,30.0,Female,Diabetes,4,2,133876.9275,6,High Risk
+882,67.0,Female,Unknown,5,3,133753.40875,6,High Risk
+4071,38.0,Male,Diabetes,5,3,133732.3225,6,High Risk
+9935,23.0,Male,Hypertension,4,1,133730.13,6,High Risk
+7078,33.0,Male,Diabetes,3,2,133648.885,6,High Risk
+9090,49.0,Female,Heart Failure,3,1,133631.43375000003,6,High Risk
+6852,54.0,Female,Diabetes,5,4,133561.015,6,High Risk
+11750,82.0,Male,Unknown,5,4,133507.72875,6,High Risk
+550,45.0,Female,Heart Failure,4,1,133373.2,6,High Risk
+8136,52.0,Male,Diabetes,5,3,133292.33750000002,6,High Risk
+2293,26.0,Female,Asthma,5,1,133289.95875000002,6,High Risk
+2260,50.0,Male,Diabetes,6,3,133115.86750000002,6,High Risk
+3204,75.0,Male,Hypertension,2,0,132767.1975,6,High Risk
+9824,36.0,Male,Hypertension,4,1,132641.1025,6,High Risk
+6603,63.0,Male,Unknown,3,2,132439.995,6,High Risk
+7168,31.0,Female,Copd,5,3,132192.965,6,High Risk
+10211,58.0,Male,Diabetes,3,2,132173.3825,6,High Risk
+7277,38.0,Male,Diabetes,4,0,131467.55,6,High Risk
+3647,32.0,Male,Diabetes,4,2,131316.01,6,High Risk
+1955,57.0,Female,Heart Failure,4,2,131255.9175,6,High Risk
+6982,25.0,Male,Heart Failure,5,3,130675.98875,6,High Risk
+4109,34.0,Male,Hypertension,3,1,130620.72875000001,6,High Risk
+11117,41.0,Female,Heart Failure,3,1,130583.7175,6,High Risk
+10805,40.0,Female,Hypertension,3,1,130458.51875000002,6,High Risk
+10864,47.0,Female,Copd,7,3,130381.28,6,High Risk
+2211,28.0,Female,Copd,3,2,130287.89875000001,6,High Risk
+1374,76.0,Female,Ckd,4,3,129989.77875000001,6,High Risk
+810,41.0,Female,Hypertension,3,1,129834.41375,6,High Risk
+5606,45.0,Female,Diabetes,5,4,129804.73875000002,6,High Risk
+9564,13.0,Female,Diabetes,5,1,129394.69,6,High Risk
+8069,42.0,Male,Copd,3,3,129300.99250000001,6,High Risk
+3209,57.0,Male,Ckd,3,3,129172.82875000002,6,High Risk
+8155,48.0,Female,Heart Failure,5,2,128872.82375000001,6,High Risk
+2325,76.0,Female,Unknown,3,0,128725.8425,6,High Risk
+7683,35.0,Female,Hypertension,4,2,128670.74875000001,6,High Risk
+2701,67.0,Male,Hypertension,4,1,128625.8925,6,High Risk
+8963,34.0,Male,Hypertension,3,1,127925.84750000002,6,High Risk
+7611,37.0,Male,Hypertension,6,5,127468.79875000002,6,High Risk
+9239,29.0,Male,Copd,5,2,127011.70375,6,High Risk
+1139,34.0,Female,Diabetes,5,2,126731.39000000001,6,High Risk
+9714,49.0,Male,Cancer,3,1,125652.855,6,High Risk
+7026,51.0,Male,Diabetes,3,3,125388.0675,6,High Risk
+9302,30.0,Male,Heart Failure,5,1,124956.91875,6,High Risk
+1749,55.0,Male,Copd,3,2,124400.44000000002,6,High Risk
+4451,58.0,Female,Diabetes,4,1,124303.30875,6,High Risk
+8586,50.0,Male,Diabetes,3,0,124102.965,6,High Risk
+377,75.0,Male,Ckd,3,2,123842.5175,6,High Risk
+7017,49.0,Male,Asthma,4,1,123628.97375,6,High Risk
+2350,70.0,Female,Diabetes,4,3,123272.34375,6,High Risk
+11126,31.0,Male,Ckd,4,2,122839.11875,6,High Risk
+1142,39.0,Female,Hypertension,5,3,122721.49375000001,6,High Risk
+6128,52.0,Male,Hypertension,5,5,122685.69875,6,High Risk
+11620,70.0,Male,Diabetes,3,2,122464.41375,6,High Risk
+1158,49.0,other,Diabetes,6,3,122462.865,6,High Risk
+10499,80.0,Male,Unknown,4,1,122250.94875000001,6,High Risk
+10149,34.0,Male,Hypertension,3,2,122005.07999999999,6,High Risk
+1592,69.0,Female,Hypertension,3,1,121734.23875,6,High Risk
+3846,61.0,Female,Unknown,4,4,121301.82,6,High Risk
+8558,44.0,Female,Hypertension,5,4,120863.51,6,High Risk
+10015,48.0,Male,Diabetes,4,2,120249.495,6,High Risk
+9024,56.0,Male,Cancer,3,1,119876.76,6,High Risk
+9792,75.0,Male,Unknown,3,3,119756.18125000001,6,High Risk
+6434,41.0,Male,Diabetes,5,4,119578.07750000001,6,High Risk
+6599,55.0,Male,Hypertension,3,1,119552.06375,6,High Risk
+2895,28.0,Male,Diabetes,4,1,119464.74625000001,6,High Risk
+2829,34.0,Female,Diabetes,3,0,119392.26250000001,6,High Risk
+6386,25.0,Male,Diabetes,3,0,119248.475,6,High Risk
+8797,47.0,Male,Ckd,5,3,119225.8375,6,High Risk
+5212,41.0,Male,Diabetes,4,3,119110.25375,6,High Risk
+10282,61.0,Male,Copd,2,1,119006.52750000001,6,High Risk
+8597,34.0,Female,Ckd,4,3,118718.15875,6,High Risk
+726,47.0,Male,Diabetes,4,2,118668.54750000002,6,High Risk
+4326,49.0,Female,Diabetes,3,1,118592.44750000001,6,High Risk
+5419,23.0,Female,Ckd,3,3,118190.88750000001,6,High Risk
+4832,48.0,Female,Heart Failure,5,2,118165.91874999998,6,High Risk
+4658,37.0,Female,Asthma,3,1,117988.65375000001,6,High Risk
+1338,39.0,Female,Diabetes,4,2,117555.07250000001,6,High Risk
+4897,25.0,Female,Ckd,3,2,117495.20625000002,6,High Risk
+1028,21.0,Male,Copd,4,2,117456.37875,6,High Risk
+7195,36.0,Female,Hypertension,5,2,116958.89499999999,6,High Risk
+4648,59.0,Male,Ckd,4,2,116894.81,6,High Risk
+480,55.0,Female,Diabetes,4,2,116684.18375000001,6,High Risk
+7858,28.0,Male,Diabetes,5,2,116449.67750000002,6,High Risk
+6811,54.0,Female,Diabetes,3,2,116118.175,6,High Risk
+1127,46.0,Male,Asthma,4,1,116002.25,6,High Risk
+291,40.0,Male,Cancer,3,1,115832.56875,6,High Risk
+9914,62.0,Male,Diabetes,2,2,115728.50875,6,High Risk
+6672,43.0,Female,Diabetes,5,2,115707.80875,6,High Risk
+6586,38.0,Female,Copd,6,3,115686.57375000001,6,High Risk
+10099,59.0,Male,Hypertension,5,3,115279.87375,6,High Risk
+9404,51.0,Male,Hypertension,4,3,115192.05375,6,High Risk
+10441,58.0,Female,Diabetes,5,4,113703.47,6,High Risk
+11672,71.0,Female,Hypertension,3,3,113648.76875,6,High Risk
+922,51.0,Male,Copd,5,2,113636.1325,6,High Risk
+7095,96.0,Female,Unknown,6,3,113504.375,6,High Risk
+11473,63.0,Female,Diabetes,3,1,113466.0675,6,High Risk
+8474,76.0,Male,Copd,3,3,113263.36374999999,6,High Risk
+1135,58.0,Male,Hypertension,3,2,113139.55375,6,High Risk
+1429,73.0,Male,Hypertension,3,1,112575.56875,6,High Risk
+9179,54.0,Female,Diabetes,4,3,112076.27,6,High Risk
+5298,34.0,Female,Copd,4,3,112019.335,6,High Risk
+8812,61.0,Male,Ckd,3,3,111932.25875000001,6,High Risk
+6403,53.0,Female,Hypertension,3,2,111869.47750000001,6,High Risk
+9625,68.0,Male,Asthma,4,3,111747.14499999999,6,High Risk
+4574,54.0,Female,Ckd,3,2,111686.22875000001,6,High Risk
+11022,22.0,Male,Ckd,5,2,111118.77,6,High Risk
+283,61.0,Male,Unknown,5,3,111044.175,6,High Risk
+2810,32.0,Male,Cancer,3,2,110790.0675,6,High Risk
+4538,43.0,Male,Asthma,3,1,110646.60500000001,6,High Risk
+10027,63.0,Male,Unknown,3,1,110621.09000000001,6,High Risk
+1799,72.0,Female,Unknown,4,1,109982.595,6,High Risk
+2167,53.0,Female,Ckd,6,6,109890.18,6,High Risk
+8629,27.0,Female,Hypertension,4,0,109584.52875,6,High Risk
+8456,45.0,Male,Heart Failure,4,1,109508.76375000001,6,High Risk
+4289,48.0,Female,Diabetes,5,1,109385.7075,6,High Risk
+1924,66.0,Female,Unknown,3,1,108925.07875,6,High Risk
+9285,63.0,Male,Diabetes,4,4,108714.37250000001,6,High Risk
+619,25.0,Male,Hypertension,3,1,108548.67875000002,6,High Risk
+8340,60.0,Male,Cancer,3,1,108032.82750000001,6,High Risk
+3531,44.0,Male,Diabetes,4,3,108022.38,6,High Risk
+160,60.0,Male,Diabetes,3,1,108009.22375,6,High Risk
+8317,68.0,Male,Copd,3,1,107962.56374999999,6,High Risk
+8863,19.0,Female,Hypertension,4,1,107942.285,6,High Risk
+9577,59.0,Male,Heart Failure,4,4,107600.48875000002,6,High Risk
+9468,39.0,Male,Cancer,5,2,106879.23875,6,High Risk
+10106,52.0,other,Cancer,5,2,106574.13500000001,6,High Risk
+8478,39.0,Female,Hypertension,4,2,106506.17875000002,6,High Risk
+1312,72.0,Female,Unknown,3,1,106420.58875000001,6,High Risk
+723,61.0,Male,Unknown,3,3,106417.7,6,High Risk
+4407,65.0,Male,Asthma,3,3,106341.73000000001,6,High Risk
+1403,44.0,Female,Asthma,3,1,106236.285,6,High Risk
+10788,47.0,Female,Asthma,4,2,106189.10875000001,6,High Risk
+2408,70.0,Female,Diabetes,3,2,106069.765,6,High Risk
+4450,55.0,Male,Hypertension,6,1,105812.23,6,High Risk
+10274,19.0,Male,Diabetes,3,1,105811.18999999999,6,High Risk
+6571,32.0,Male,Hypertension,4,3,105753.225,6,High Risk
+2780,50.0,Male,Heart Failure,4,1,105706.54750000002,6,High Risk
+3942,49.0,Male,Hypertension,3,2,104643.5525,6,High Risk
+10841,51.0,Female,Diabetes,3,2,104462.61875,6,High Risk
+735,35.0,Male,Hypertension,3,0,104435.41875000001,6,High Risk
+9701,80.0,Female,Unknown,4,3,104373.18875,6,High Risk
+11159,61.0,Female,Diabetes,2,1,104339.19750000001,6,High Risk
+6117,35.0,Female,Ckd,3,0,104077.67375,6,High Risk
+1733,56.0,Female,Ckd,5,3,103804.58,6,High Risk
+8334,57.0,Female,Asthma,4,0,103758.69875000001,6,High Risk
+11895,69.0,Male,Asthma,3,2,103266.60750000001,6,High Risk
+131,58.0,Male,Copd,3,3,103119.07,6,High Risk
+1100,44.0,Male,Diabetes,3,2,102913.22875000001,6,High Risk
+2359,64.0,Female,Asthma,4,2,102709.92499999999,6,High Risk
+9681,40.0,Female,Hypertension,4,2,102641.46875000001,6,High Risk
+7230,73.0,Female,Unknown,4,2,102455.5475,6,High Risk
+3202,30.0,Male,Heart Failure,4,1,102074.81,6,High Risk
+3398,56.0,Male,Diabetes,3,1,101773.17875,6,High Risk
+1136,56.0,Female,Diabetes,3,2,101740.49875000001,6,High Risk
+84,22.0,Female,Ckd,3,2,101616.04875000002,6,High Risk
+2019,57.0,Female,Diabetes,3,2,101598.77,6,High Risk
+5576,60.0,Female,Cancer,4,3,101587.16375,6,High Risk
+508,25.0,Male,Copd,3,1,101134.66500000001,6,High Risk
+8866,49.0,Male,Hypertension,4,1,101055.36750000001,6,High Risk
+6388,46.0,Female,Asthma,3,2,100470.12875,6,High Risk
+9219,14.0,Male,Diabetes,4,1,99935.3875,6,High Risk
+4497,41.0,Female,Hypertension,4,2,99641.45,6,High Risk
+4570,10.0,Female,Asthma,5,2,99607.38875000001,6,High Risk
+2820,65.0,Male,Heart Failure,3,3,99267.65875,6,High Risk
+3242,46.0,Female,Asthma,4,3,99099.63750000003,6,High Risk
+6832,47.0,Male,Diabetes,3,2,99076.12875,6,High Risk
+6425,61.0,Male,Diabetes,2,2,98576.34,6,High Risk
+579,38.0,Female,Copd,3,0,98313.12875,6,High Risk
+7237,41.0,Female,Hypertension,3,1,98038.47875000001,6,High Risk
+4575,50.0,Female,Ckd,4,1,97997.20000000001,6,High Risk
+6791,68.0,Female,Cancer,2,1,97699.52375000001,6,High Risk
+11841,75.0,Male,Diabetes,3,3,97383.77875,6,High Risk
+1454,61.0,other,Unknown,3,1,97379.90875,6,High Risk
+10594,17.0,Male,Asthma,5,1,97270.17875,6,High Risk
+6537,28.0,Female,Ckd,4,1,97154.49875,6,High Risk
+9223,36.0,Male,Hypertension,3,0,96954.13875,6,High Risk
+5357,34.0,Female,Ckd,3,1,96600.62375000001,6,High Risk
+5804,52.0,Male,Ckd,4,3,96542.66874999998,6,High Risk
+2645,55.0,Male,Copd,3,2,96534.8425,6,High Risk
+516,62.0,Female,Asthma,4,3,96520.96375,6,High Risk
+8887,37.0,Female,Heart Failure,4,1,95955.99500000001,6,High Risk
+3281,64.0,Female,Diabetes,3,0,95870.76875,6,High Risk
+11385,52.0,Female,Diabetes,4,3,95647.535,6,High Risk
+524,64.0,Female,Ckd,3,2,95518.05500000001,6,High Risk
+10233,51.0,Male,Asthma,3,1,95360.00375,6,High Risk
+269,59.0,Male,Heart Failure,4,2,95155.46375,6,High Risk
+279,47.0,Female,Hypertension,4,3,95010.295,6,High Risk
+9602,45.0,Female,Ckd,5,2,94825.245,6,High Risk
+10347,66.0,Female,Diabetes,3,2,94157.19,6,High Risk
+6481,38.0,Female,Hypertension,4,1,94013.74875,6,High Risk
+2632,82.0,Female,Heart Failure,4,4,93965.83875000001,6,High Risk
+7842,74.0,Male,Diabetes,4,4,93804.68875,6,High Risk
+11154,85.0,Male,Unknown,4,4,93539.85500000001,6,High Risk
+6577,70.0,Female,Hypertension,3,3,93331.82875,6,High Risk
+11730,68.0,Male,Hypertension,2,2,93249.85875000001,6,High Risk
+9966,41.0,Female,Diabetes,3,3,93014.81375,6,High Risk
+5312,47.0,Female,Hypertension,3,1,92975.49375,6,High Risk
+2851,21.0,Female,Hypertension,3,2,92973.83875000001,6,High Risk
+4461,51.0,Male,Copd,4,2,92685.77,6,High Risk
+491,35.0,Female,Copd,3,2,92461.11375000002,6,High Risk
+6845,34.0,Male,Ckd,5,4,92336.45999999999,6,High Risk
+3129,70.0,Female,Ckd,2,1,91590.56875,6,High Risk
+9668,51.0,Male,Diabetes,5,4,91456.745,6,High Risk
+3435,61.0,Male,Diabetes,3,2,91417.89375000002,6,High Risk
+2953,62.0,Female,Unknown,3,2,91078.54999999999,6,High Risk
+8679,61.0,Female,Diabetes,2,2,91072.98875,6,High Risk
+10157,52.0,Female,Hypertension,6,2,91064.0,6,High Risk
+1459,48.0,Female,Cancer,3,2,90997.10875000001,6,High Risk
+933,66.0,Female,Asthma,2,1,90914.47000000002,6,High Risk
+8776,44.0,Female,Hypertension,5,3,90738.70375,6,High Risk
+1473,45.0,Female,Heart Failure,4,3,90716.335,6,High Risk
+10674,33.0,Male,Asthma,3,1,90624.45875000002,6,High Risk
+3092,64.0,Female,Diabetes,3,2,90489.68000000001,6,High Risk
+6925,36.0,Female,Asthma,3,2,90321.32500000001,6,High Risk
+6876,56.0,Male,Hypertension,4,4,90150.94,6,High Risk
+1272,50.0,Female,Heart Failure,3,2,90007.02,6,High Risk
+8058,47.0,Female,Diabetes,4,2,89729.89375,6,High Risk
+5340,33.0,Female,Asthma,3,2,89679.95375,6,High Risk
+10490,61.0,Male,Unknown,5,1,89467.64875000001,6,High Risk
+6274,54.0,Male,Diabetes,3,1,89368.13750000001,6,High Risk
+1323,54.0,Male,Diabetes,3,3,89127.37750000002,6,High Risk
+6526,53.0,Male,Diabetes,4,2,88859.85875000001,6,High Risk
+10729,66.0,Male,Copd,2,2,88725.91875000001,6,High Risk
+7993,41.0,Female,Diabetes,3,1,88528.33875,6,High Risk
+5249,66.0,Female,Heart Failure,2,1,88336.49875,6,High Risk
+7206,80.0,Female,Cancer,3,2,88110.91375,6,High Risk
+1867,29.0,Female,Hypertension,6,3,87649.675,6,High Risk
+11486,38.0,Male,Hypertension,3,2,87625.49875,6,High Risk
+10899,48.0,Female,Copd,3,1,87485.155,6,High Risk
+4794,38.0,Male,Hypertension,4,2,87475.89499999999,6,High Risk
+9536,61.0,Female,Unknown,3,2,87412.63875,6,High Risk
+11666,60.0,Male,Diabetes,4,3,87267.08,6,High Risk
+2885,54.0,Female,Hypertension,4,2,86895.87875,6,High Risk
+8410,54.0,Male,Cancer,3,2,86591.50375,6,High Risk
+2042,15.0,Male,Heart Failure,3,1,86475.40875000002,6,High Risk
+5418,45.0,Female,Copd,3,2,86435.345,6,High Risk
+2590,49.0,Female,Heart Failure,4,4,86032.14,6,High Risk
+2440,39.0,Female,Copd,5,4,86029.57,6,High Risk
+1456,63.0,Male,Unknown,3,2,85696.22375,6,High Risk
+7099,37.0,Male,Copd,4,2,85567.86875000001,6,High Risk
+1045,44.0,Female,Hypertension,4,1,85557.44,6,High Risk
+10190,30.0,Female,Asthma,3,1,85064.235,6,High Risk
+9695,39.0,Female,Hypertension,3,1,84893.45375,6,High Risk
+5884,37.0,Male,Hypertension,5,1,84865.61875000002,6,High Risk
+9658,51.0,Female,Hypertension,3,2,84756.90875000002,6,High Risk
+8833,50.0,Female,Hypertension,3,1,84515.73999999999,6,High Risk
+6885,36.0,Male,Diabetes,3,1,84270.98000000001,6,High Risk
+5182,82.0,Male,Diabetes,3,3,84113.76875,6,High Risk
+8367,40.0,Male,Copd,4,1,83904.04375000001,6,High Risk
+2479,33.0,Male,Copd,3,1,83799.93250000001,6,High Risk
+5562,47.0,Female,Ckd,3,2,83594.13,6,High Risk
+7652,38.0,Female,Diabetes,5,2,83190.23875,6,High Risk
+425,50.0,Male,Copd,5,2,83147.69375,6,High Risk
+3115,34.0,Male,Hypertension,5,2,83038.51000000001,6,High Risk
+11417,60.0,Male,Hypertension,3,1,83008.22875000001,6,High Risk
+5912,36.0,Male,Heart Failure,4,3,82956.0,6,High Risk
+954,42.0,Female,Asthma,4,2,82888.85999999999,6,High Risk
+4715,41.0,Female,Hypertension,3,0,82647.68875,6,High Risk
+5421,42.0,Male,Ckd,3,2,82542.75,6,High Risk
+2431,63.0,Female,Unknown,3,2,82431.305,6,High Risk
+2510,44.0,Female,Ckd,3,1,82340.58,6,High Risk
+3932,47.0,Male,Diabetes,3,1,82247.79875,6,High Risk
+5261,61.0,Male,Heart Failure,3,2,82115.36,6,High Risk
+3163,54.0,Male,Ckd,4,3,81873.805,6,High Risk
+4501,34.0,Female,Diabetes,4,3,81820.12,6,High Risk
+680,54.0,Male,Copd,4,3,81021.8,6,High Risk
+40,63.0,Male,Unknown,3,1,80829.91,6,High Risk
+5266,41.0,Female,Diabetes,3,1,80313.88375,6,High Risk
+10593,34.0,other,Copd,3,1,80241.49875,6,High Risk
+4565,19.0,Female,Ckd,3,1,80237.28875,6,High Risk
+3660,43.0,Female,Hypertension,3,1,79591.95,6,High Risk
+11579,68.0,Female,Diabetes,3,2,79342.25875000001,6,High Risk
+2487,59.0,Female,Heart Failure,4,2,79233.74875,6,High Risk
+6900,0.0,Male,Asthma,4,1,79056.35875000001,6,High Risk
+1545,55.0,Male,Ckd,4,2,78945.55,6,High Risk
+955,47.0,Female,Hypertension,3,2,78620.06875,6,High Risk
+2156,64.0,Male,Asthma,3,1,78309.39875,6,High Risk
+1795,42.0,Female,Copd,3,2,78218.1,6,High Risk
+10255,19.0,Male,Hypertension,3,1,78188.83875,6,High Risk
+316,48.0,Female,Ckd,5,3,78124.455,6,High Risk
+4873,45.0,Male,Heart Failure,3,2,78057.67874999999,6,High Risk
+10455,51.0,Male,Ckd,3,1,78005.44875000001,6,High Risk
+3426,31.0,Female,Hypertension,5,2,77999.84,6,High Risk
+4528,66.0,Male,Asthma,4,1,77861.22875000001,6,High Risk
+3164,68.0,Female,Asthma,2,0,77788.9975,6,High Risk
+2027,46.0,Male,Hypertension,4,1,77278.73375,6,High Risk
+2488,81.0,Male,Ckd,1,0,77022.36,6,High Risk
+4693,73.0,Female,Diabetes,3,1,76498.04375,6,High Risk
+6877,66.0,Male,Diabetes,3,3,76266.42,6,High Risk
+11301,76.0,Female,Hypertension,3,3,76184.20999999999,6,High Risk
+6038,51.0,Female,Diabetes,3,1,76060.68999999999,6,High Risk
+3477,51.0,Male,Hypertension,3,0,75766.215,6,High Risk
+5080,39.0,Male,Diabetes,3,1,75733.12875,6,High Risk
+48,72.0,Male,Asthma,4,3,75632.49999999999,6,High Risk
+7911,82.0,Male,Copd,3,3,75628.39875000001,6,High Risk
+10710,29.0,Female,Diabetes,4,2,75481.71875,6,High Risk
+8220,75.0,Male,Hypertension,2,2,75023.7,6,High Risk
+6316,68.0,Male,Hypertension,2,1,75016.37,6,High Risk
+8942,37.0,Female,Diabetes,4,0,74751.8,6,High Risk
+10329,56.0,Male,Heart Failure,3,2,74210.42375,6,High Risk
+7583,59.0,Male,Asthma,3,2,74098.16875000001,6,High Risk
+10957,34.0,Female,Asthma,4,3,73891.9,6,High Risk
+520,43.0,Female,Ckd,3,2,73759.675,6,High Risk
+273,37.0,Male,Hypertension,3,0,73246.655,6,High Risk
+7629,82.0,Female,Ckd,3,3,72777.10875000001,6,High Risk
+3603,50.0,Female,Copd,3,2,72714.67375000002,6,High Risk
+790,56.0,Male,Diabetes,4,0,72455.71,6,High Risk
+7994,74.0,Female,Diabetes,3,3,72113.44,6,High Risk
+4422,63.0,Female,Asthma,3,2,72031.01999999999,6,High Risk
+4884,32.0,Male,Copd,3,2,71948.55875,6,High Risk
+9760,28.0,Female,Hypertension,3,0,71406.065,6,High Risk
+9784,58.0,Female,Diabetes,3,2,71319.38875000001,6,High Risk
+3757,60.0,Female,Hypertension,2,2,70946.10375,6,High Risk
+11256,46.0,Male,Hypertension,3,2,70883.29875,6,High Risk
+4650,47.0,Female,Copd,6,3,70838.33499999999,6,High Risk
+2184,37.0,Male,Ckd,3,1,70792.61,6,High Risk
+8891,32.0,Male,Hypertension,4,3,70748.15875,6,High Risk
+2758,75.0,Male,Hypertension,3,2,70594.91375,6,High Risk
+10178,49.0,Male,Copd,4,4,70573.61375,6,High Risk
+9311,61.0,Female,Cancer,3,2,70012.62375,6,High Risk
+1552,62.0,Female,Hypertension,3,2,69730.98875,6,High Risk
+4049,49.0,Female,Copd,3,1,69452.225,6,High Risk
+11326,66.0,Male,Ckd,1,0,69305.33875000001,6,High Risk
+8064,60.0,Male,Cancer,1,0,69300.43750000001,6,High Risk
+2285,46.0,Female,Diabetes,3,1,69105.405,6,High Risk
+10967,62.0,Female,Diabetes,1,1,68660.15875,6,High Risk
+3182,51.0,Female,Asthma,4,4,68519.80875000001,6,High Risk
+781,73.0,Male,Hypertension,3,1,68034.85,6,High Risk
+127,51.0,Male,Hypertension,4,2,67737.375,6,High Risk
+4544,27.0,Female,Asthma,3,1,67340.33,6,High Risk
+9795,27.0,Male,Hypertension,3,2,67096.39875000001,6,High Risk
+8012,35.0,Female,Hypertension,3,2,67085.87,6,High Risk
+10575,74.0,Female,Copd,3,1,66734.48999999999,6,High Risk
+5276,62.0,Female,Hypertension,3,2,66531.505,6,High Risk
+11261,77.0,Female,Heart Failure,3,2,66295.84875,6,High Risk
+9192,35.0,Female,Copd,5,2,66230.345,6,High Risk
+8462,27.0,Male,Ckd,5,2,65295.6,6,High Risk
+3066,24.0,Male,Hypertension,4,1,64981.92,6,High Risk
+208,28.0,Female,Hypertension,3,0,64816.47875000001,6,High Risk
+4284,65.0,Female,Unknown,4,1,64778.53,6,High Risk
+9661,75.0,Male,Cancer,3,2,64622.049999999996,6,High Risk
+6733,77.0,Male,Hypertension,3,2,64486.36,6,High Risk
+7143,70.0,Male,Unknown,4,0,64318.495,6,High Risk
+11110,42.0,Female,Heart Failure,3,0,63831.46000000001,6,High Risk
+11111,44.0,Male,Heart Failure,3,2,63745.315,6,High Risk
+8377,42.0,Male,Copd,3,1,63723.49375000001,6,High Risk
+859,31.0,Female,Copd,4,4,63615.895,6,High Risk
+11009,36.0,Female,Hypertension,3,1,63503.259999999995,6,High Risk
+879,50.0,Female,Heart Failure,3,3,62355.498750000006,6,High Risk
+6786,62.0,Male,Unknown,4,2,62172.838749999995,6,High Risk
+11293,59.0,Female,Hypertension,3,2,62030.3,6,High Risk
+1368,73.0,Male,Cancer,3,2,61801.79875000001,6,High Risk
+9154,33.0,Female,Hypertension,4,2,61508.025,6,High Risk
+9718,43.0,Male,Diabetes,5,5,60101.67999999999,6,High Risk
+3075,70.0,Female,Ckd,3,2,59969.608750000014,6,High Risk
+11498,65.0,Female,Diabetes,3,1,59969.19875,6,High Risk
+7380,30.0,Male,Diabetes,3,2,59088.68,6,High Risk
+8075,19.0,Male,Hypertension,5,5,58724.805,6,High Risk
+1079,71.0,Female,Hypertension,3,3,58521.27875000001,6,High Risk
+870,64.0,Female,Cancer,3,2,58423.15875,6,High Risk
+10911,42.0,Male,Diabetes,3,2,58065.668750000004,6,High Risk
+9985,42.0,Male,Heart Failure,4,2,57961.240000000005,6,High Risk
+3476,29.0,Female,Hypertension,3,0,57739.75,6,High Risk
+9611,78.0,Female,Hypertension,3,2,57697.75375,6,High Risk
+9490,45.0,Female,Hypertension,3,0,57433.63,6,High Risk
+10558,31.0,Male,Heart Failure,3,1,57381.34,6,High Risk
+11694,63.0,Female,Ckd,3,3,57145.865000000005,6,High Risk
+3158,54.0,Male,Copd,4,2,56978.765,6,High Risk
+2640,51.0,Female,Asthma,4,1,56303.265,6,High Risk
+985,49.0,Male,Heart Failure,3,2,55306.425,6,High Risk
+4411,32.0,Female,Hypertension,3,0,55074.18875,6,High Risk
+4440,39.0,Female,Ckd,3,0,54710.045,6,High Risk
+1034,50.0,Male,Cancer,3,2,54056.785,6,High Risk
+6164,64.0,Female,Unknown,3,2,53051.18,6,High Risk
+11753,72.0,Male,Hypertension,2,1,52570.44,6,High Risk
+3849,36.0,Female,Diabetes,3,1,51938.79000000001,6,High Risk
+10704,53.0,Female,Heart Failure,4,3,51655.45,6,High Risk
+8916,44.0,Female,Heart Failure,4,3,51224.235,6,High Risk
+11631,65.0,Female,Asthma,3,2,51116.950000000004,6,High Risk
+8707,22.0,Female,Ckd,3,1,51040.75,6,High Risk
+5141,58.0,Male,Ckd,4,1,50914.403750000005,6,High Risk
+11662,77.0,Female,Diabetes,3,0,50827.43,6,High Risk
+2830,66.0,Male,Heart Failure,2,1,50826.598750000005,6,High Risk
+8047,63.0,Female,Ckd,3,3,50287.50375,6,High Risk
+1604,31.0,Male,Heart Failure,3,0,50131.125,6,High Risk
+11609,69.0,Female,Diabetes,2,1,49900.778750000005,6,High Risk
+7593,41.0,Male,Hypertension,4,3,49811.119999999995,6,High Risk
+11677,68.0,Male,Diabetes,1,0,49377.91875,6,High Risk
+2835,44.0,Female,Diabetes,3,1,49099.060000000005,6,High Risk
+1513,77.0,Male,Hypertension,3,2,48998.840000000004,6,High Risk
+11384,59.0,Female,Diabetes,3,3,48682.86,6,High Risk
+10714,51.0,Male,Copd,3,2,48465.990000000005,6,High Risk
+2821,53.0,Female,Diabetes,3,2,48251.9,6,High Risk
+3536,54.0,Female,Heart Failure,3,2,48225.88,6,High Risk
+3449,79.0,Female,Heart Failure,2,2,48187.01875,6,High Risk
+2614,34.0,Female,Hypertension,3,1,47745.78999999999,6,High Risk
+8029,33.0,Female,Diabetes,3,1,47695.95,6,High Risk
+2312,50.0,Male,Asthma,3,0,47660.78875000001,6,High Risk
+5039,34.0,Male,Asthma,3,1,47374.055,6,High Risk
+9330,46.0,Female,Copd,3,1,47117.795,6,High Risk
+8895,30.0,Female,Hypertension,3,2,46998.98,6,High Risk
+5528,64.0,Female,Asthma,2,2,46816.138750000006,6,High Risk
+4644,27.0,Female,Hypertension,3,1,46661.82,6,High Risk
+8504,49.0,Male,Ckd,3,3,46331.995,6,High Risk
+3494,39.0,Female,Diabetes,4,0,46021.3,6,High Risk
+1569,39.0,Male,Hypertension,3,2,45496.96,6,High Risk
+7413,58.0,Male,Diabetes,3,3,45245.399999999994,6,High Risk
+3480,72.0,Male,Asthma,3,2,45097.145000000004,6,High Risk
+11208,60.0,Female,Copd,1,1,45056.87875,6,High Risk
+7170,61.0,Male,Unknown,3,2,44747.19,6,High Risk
+6505,81.0,Male,Diabetes,3,3,44691.73,6,High Risk
+8454,59.0,Female,Hypertension,6,3,44398.69,6,High Risk
+2123,47.0,Male,Copd,4,1,44243.600000000006,6,High Risk
+2678,82.0,Female,Copd,2,1,44136.590000000004,6,High Risk
+3238,38.0,Female,Heart Failure,3,2,43709.18,6,High Risk
+3459,72.0,Male,Unknown,3,2,43422.32000000001,6,High Risk
+1960,53.0,Male,Copd,3,0,43285.8,6,High Risk
+8832,56.0,Female,Ckd,3,1,43068.049999999996,6,High Risk
+3098,68.0,Male,Cancer,4,2,42881.21000000001,6,High Risk
+4300,65.0,Male,Ckd,3,1,42723.14,6,High Risk
+2940,87.0,Female,Heart Failure,3,3,42026.065,6,High Risk
+3296,45.0,Male,Cancer,4,1,41691.565,6,High Risk
+11464,49.0,Female,Copd,3,2,41351.34,6,High Risk
+9942,51.0,unknown,Diabetes,3,2,40827.93000000001,6,High Risk
+4319,63.0,unknown,Unknown,3,1,40291.63,6,High Risk
+9361,65.0,Female,Asthma,2,2,40251.71,6,High Risk
+962,77.0,Male,Copd,2,2,40209.78,6,High Risk
+10584,37.0,Female,Diabetes,3,1,40068.735,6,High Risk
+6893,60.0,Female,Hypertension,2,0,39995.96,6,High Risk
+9366,33.0,Male,Diabetes,4,0,39991.020000000004,6,High Risk
+1712,15.0,Female,Asthma,3,0,39729.95,6,High Risk
+3356,69.0,Female,Diabetes,3,2,39375.94,6,High Risk
+7504,71.0,Female,Hypertension,3,1,39273.815,6,High Risk
+6557,52.0,Female,Heart Failure,4,2,38656.979999999996,6,High Risk
+10861,44.0,Female,Copd,4,1,38508.9,6,High Risk
+3279,72.0,Female,Hypertension,2,1,36630.64,6,High Risk
+8623,60.0,Female,Asthma,3,2,36114.090000000004,6,High Risk
+7112,43.0,Male,Hypertension,3,2,35182.869999999995,6,High Risk
+7958,37.0,Female,Diabetes,5,2,35071.62,6,High Risk
+298,39.0,Male,Hypertension,3,2,34488.55,6,High Risk
+3250,43.0,Male,Diabetes,3,3,34475.88,6,High Risk
+4944,77.0,Female,Ckd,2,1,33569.19,6,High Risk
+8152,50.0,Female,Heart Failure,3,2,33276.03,6,High Risk
+11131,36.0,Male,Diabetes,4,1,33247.755,6,High Risk
+499,87.0,Female,Ckd,2,1,32763.909999999996,6,High Risk
+2643,37.0,Male,Cancer,4,2,32658.78,6,High Risk
+11023,47.0,Male,Asthma,3,1,31333.745000000003,6,High Risk
+7796,68.0,Male,Diabetes,2,2,30793.809999999998,6,High Risk
+4790,59.0,Male,Diabetes,4,2,29526.159999999996,6,High Risk
+11589,69.0,Female,Heart Failure,2,0,29456.825,6,High Risk
+2797,49.0,Female,Diabetes,3,2,29377.95,6,High Risk
+11061,79.0,Male,Diabetes,2,2,29248.07,6,High Risk
+1087,70.0,Female,Heart Failure,3,2,29028.34,6,High Risk
+353,53.0,Female,Heart Failure,3,1,28782.379999999997,6,High Risk
+6340,41.0,Female,Hypertension,3,1,27113.28,6,High Risk
+1571,59.0,Male,Heart Failure,3,1,27106.93,6,High Risk
+6809,30.0,Male,Asthma,3,3,26820.399999999998,6,High Risk
+2542,87.0,Female,Ckd,1,1,26573.06,6,High Risk
+6543,58.0,Female,Ckd,3,2,23031.15,6,High Risk
+10498,61.0,Male,Diabetes,2,1,23009.905,6,High Risk
+11729,71.0,Female,Heart Failure,2,2,21777.78,6,High Risk
+6336,31.0,Female,Asthma,4,1,21668.945,6,High Risk
+11437,68.0,Male,Asthma,1,1,21350.219999999998,6,High Risk
+7846,68.0,Female,Unknown,3,3,20902.27,6,High Risk
+10743,70.0,Female,Heart Failure,2,1,19829.33,6,High Risk
+9443,70.0,unknown,Heart Failure,2,1,19650.54,6,High Risk
+6433,88.0,Male,Diabetes,1,1,19148.985,6,High Risk
+98,78.0,Male,Hypertension,2,2,19097.89,6,High Risk
+10195,79.0,Female,Copd,1,1,18427.420000000002,6,High Risk
+5184,83.0,Female,Diabetes,4,4,18139.61,6,High Risk
+9064,70.0,Female,Copd,2,2,15789.380000000001,6,High Risk
+3831,59.0,Male,Diabetes,3,1,15667.079999999998,6,High Risk
+11155,41.0,Female,Cancer,3,1,13720.685000000001,6,High Risk
+2755,46.0,Male,Hypertension,3,3,13718.845000000001,6,High Risk
+4835,65.0,Female,Heart Failure,2,0,13244.949999999997,6,High Risk
+1928,65.0,Female,Diabetes,2,1,10966.76,6,High Risk
+11993,82.0,Male,Heart Failure,1,0,9670.82,6,High Risk
+10491,66.0,Male,Copd,1,0,8284.09,6,High Risk
+7644,64.0,other,Asthma,1,1,8281.61,6,High Risk
+764,78.0,Female,Hypertension,1,1,7593.98,6,High Risk
+10170,61.0,Male,Hypertension,2,2,7137.869999999999,6,High Risk
+11826,69.0,Male,Hypertension,1,1,6207.580000000001,6,High Risk
+8754,68.0,Female,Heart Failure,2,2,6000.9800000000005,6,High Risk
+9415,66.0,Male,Hypertension,2,1,5492.389999999999,6,High Risk
+6236,60.0,Male,Diabetes,2,2,5396.23,6,High Risk
+9772,60.0,Male,Diabetes,1,1,1593.67,6,High Risk
